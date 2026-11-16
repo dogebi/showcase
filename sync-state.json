@@ -1,5 +1,5 @@
 {
- "synced_at": "2026-11-16T04:05:00+09:00",
+ "synced_at": "2026-11-17T04:00:00+09:00",
  "source": "notion:3c976f2e-9097-815f-9601-c34e47d30334",
  "entries": {
   "41676f2e-9097-8048-a3d4-e8c6a08d780a": {
@@ -53,10 +53,12 @@
   "41476f2e-9097-8168-8e29-ccf4d748e853": {
    "repo": "return-investor",
    "name": "리턴: 회귀 투자자",
-   "featured": false,
-   "live": null,
+   "featured": true,
+   "live": "https://sigco3111.github.io/return-investor/",
    "desc": "회귀·진로·투자 선택을 다루는 비주얼 노벨형 투자 게임",
-   "category": "2D게임"
+   "category": "2D게임",
+   "screenshot": "https://github.com/sigco3111/return-investor/raw/HEAD/2-readme-shot-start-20261116.png",
+   "type": "original"
   },
   "41476f2e-9097-81b6-8f6f-c3a31a4ae9d3": {
    "repo": "gostop2026",
@@ -3584,7 +3586,57 @@
    "repo": "cadle-ko",
    "screenshot": "https://github.com/sigco3111/cadle-ko/raw/HEAD/docs/screenshots/01-title.png",
    "type": "fork"
+  },
+  "41a76f2e-9097-813b-8412-cc228668da8d": {
+   "category": "3D",
+   "desc": "항구 서킷 3D 레이싱 게임 「Harbor GP」 한글화 · 화면 문구 번역, EN/한국어 전환 (원작 tetriss22/harbor-gp, 라이선스 미표기)",
+   "featured": false,
+   "live": "https://sigco3111.github.io/harbor-gp-ko/",
+   "name": "하버 라이츠 그랑프리",
+   "repo": "harbor-gp-ko",
+   "screenshot": null,
+   "type": "fork"
+  },
+  "41a76f2e-9097-8125-9ce9-ed3ee6a0ce3d": {
+   "category": "3D",
+   "desc": "7대7 3D 축구 게임 「Pocket Soccer 3D」 한글화 · 화면 문구 번역, EN/한국어 전환 (원작 ShaunPrice/soccer-3d, 라이선스 미표기)",
+   "featured": true,
+   "live": "https://sigco3111.github.io/soccer-3d-ko/",
+   "name": "포켓 사커 3D",
+   "repo": "soccer-3d-ko",
+   "screenshot": null,
+   "type": "fork"
+  },
+  "41a76f2e-9097-802a-9afe-c60aff52a57d": {
+   "category": "시각화",
+   "desc": "1940년대부터 2025년까지 소프트웨어 직무 104개의 계보를 7개 계열·5년 단위 타임라인으로 그린 인터랙티브 도해 — 영문 원작(Ian Miell)을 한국어로 옮기고 화면·설명·이야기 카드 7편을 새로 구성",
+   "featured": false,
+   "live": "https://sigco3111.github.io/sw-job-title-family-tree-ko/",
+   "name": "소프트웨어 직무 계보도",
+   "repo": "sw-job-title-family-tree-ko",
+   "screenshot": null,
+   "type": "original"
+  },
+  "41a76f2e-9097-8196-b695-cacf87d00517": {
+   "category": "일반앱",
+   "desc": "· 코드로 만드는 274개 게임 효과음 갤러리와 데모 — plinkfx 한국어판 (원작 maximilianfeix/plinkfx, MIT 코드·CC0 사운드)",
+   "featured": true,
+   "live": "https://sigco3111.github.io/plinkfx/",
+   "name": "플링크FX",
+   "repo": "plinkfx",
+   "screenshot": "https://github.com/sigco3111/plinkfx/raw/HEAD/docs/media/skill.gif",
+   "type": "fork"
+  },
+  "41976f2e-9097-8151-8da4-f43c9f4fcdce": {
+   "category": "3D",
+   "desc": "한국어 3인칭 탐험 액션 RPG. 의뢰·전투·새 회차 계승과 장비 드롭·보관·강화",
+   "featured": true,
+   "live": "https://sigco3111.github.io/windhill-rpg/",
+   "name": "바람 언덕의 유랑자",
+   "repo": "windhill-rpg",
+   "screenshot": "https://github.com/sigco3111/windhill-rpg/raw/HEAD/docs/screenshots/1-play-desktop.png",
+   "type": "original"
   }
  },
- "_gate_hash": "0a4818649c73ee48128249688828415f6a7e2b76cc9b5cc950b31b8563af824c"
+ "_gate_hash": "98a33f27044fe26cb51f50c75a096b91ceab50782e4aef9d02d4d3544aa2506f"
 }
