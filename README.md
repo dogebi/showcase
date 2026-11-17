@@ -1,12 +1,13 @@
 # 대표 저장소 쇼케이스
 
 
-> **배포 안내** — 이 저장소는 [sigco3111/showcase](https://github.com/sigco3111/showcase) 를
+> **배포 안내** — 이 저장소는 [원본 showcase 저장소](https://github.com/sigco3111/showcase) 를
 > `dogebi` 계정으로 옮겨 GitHub Pages 에 배포한 사본입니다. 콘텐츠·디자인 원저작자는 원본 저장소에 있습니다.
+> 배포 주소: https://dogebi.github.io/showcase/
 
-**sigco3111의 대표 프로젝트와 공개 저장소를 한눈에 보는 갤러리**
+**북유모의 대표 프로젝트와 공개 저장소를 한눈에 보는 갤러리**
 
-🔗 **라이브: [sigco3111.github.io/showcase](https://sigco3111.github.io/showcase/)**
+🔗 **라이브: [dogebi.github.io/showcase](https://dogebi.github.io/showcase/)**
 
 ![데스크톱 화면](docs/1-screenshot-desktop.png)
 

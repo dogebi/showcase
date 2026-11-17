@@ -856,7 +856,7 @@
    "live": "https://sigco3111.github.io/zork-underground-empire/",
    "screenshot": "https://github.com/sigco3111/zork-underground-empire/raw/HEAD/emollick/zork-underground-empire/raw/codex/public-release/public/social/zork-social.jpg",
    "type": "fork",
-   "desc": "Zork I의 비공식 한글화 포크. emollick/zork-underground-empire를 sigco3111 계정으로 복제 후 모든 인게임 텍스트, UI, 메시지를 자연스러운 한국어로 번역. Vite + Three.js 1인칭 3D 탐험 어댑테이션, 30개 구역 + 19개 보물 +",
+   "desc": "Zork I의 비공식 한글화 포크. emollick/zork-underground-empire를 북유모 계정으로 복제 후 모든 인게임 텍스트, UI, 메시지를 자연스러운 한국어로 번역. Vite + Three.js 1인칭 3D 탐험 어댑테이션, 30개 구역 + 19개 보물 +",
    "category": "3D"
   },
   "3d476f2e-9097-818f-9b79-e188e08974eb": {
@@ -1534,7 +1534,7 @@
    "name": "프라이빗 아카이브 썸네일",
    "featured": false,
    "live": null,
-   "desc": "· sigco3111 41개 비공개 프로젝트 README용 스크린샷 호스팅 (2003-2013 레거시 게임 자료)",
+   "desc": "· 북유모 41개 비공개 프로젝트 README용 스크린샷 호스팅 (2003-2013 레거시 게임 자료)",
    "category": "레거시"
   },
   "3c976f2e-9097-8126-b2be-ccc94bc5f685": {
@@ -3248,11 +3248,11 @@
    "category": "3D"
   },
   "3c976f2e-9097-817f-b59e-f56b70141807": {
-   "repo": "sigco3111",
+   "repo": "북유모",
    "name": "ICBM의 실험실",
    "featured": false,
    "live": null,
-   "desc": "· GitHub profile README for sigco3111",
+   "desc": "· GitHub profile README for 북유모",
    "category": "기타"
   },
   "3c976f2e-9097-817a-b03d-cd98fe546d54": {
@@ -3416,7 +3416,7 @@
    "name": "레폴리스",
    "featured": false,
    "live": "https://sigco3111.github.io/Repolis/",
-   "desc": "(시각화) · Repolis — sigco3111의 모든 GitHub repo가 사는 3D 도시. 건물은 트래픽이 자라고, LLM 택시가 안내한다.",
+   "desc": "(시각화) · Repolis — 북유모의 모든 GitHub repo가 사는 3D 도시. 건물은 트래픽이 자라고, LLM 택시가 안내한다.",
    "category": "자동화"
   },
   "3c976f2e-9097-81ae-955c-c10f6c6b0b6b": {
