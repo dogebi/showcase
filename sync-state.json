@@ -7,7 +7,7 @@
    "name": "도형 군단",
    "featured": true,
    "live": "https://sigco3111.github.io/shape-legion/",
-   "screenshot": "https://github.com/sigco3111/shape-legion/raw/HEAD/docs/screenshots/04-battle.webp",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/shape-legion/HEAD/docs/screenshots/04-battle.webp",
    "type": "original",
    "desc": "도형 병력을 그려 배치하고 자동으로 싸우는 수천 명 규모 웹 전략 게임 — 10개 스테이지, 지형, 업그레이드, 지휘관 기술, 레트로 픽셀 CRT UI",
    "category": "2D게임"
@@ -17,7 +17,7 @@
    "name": "불씨의 서약",
    "featured": true,
    "live": "https://sigco3111.github.io/bulssi-seoyak/",
-   "screenshot": "https://github.com/sigco3111/bulssi-seoyak/raw/HEAD/screenshots/title.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/bulssi-seoyak/HEAD/screenshots/title.png",
    "type": "fork",
    "desc": "꺼진 종의 계곡을 무대로 한 Three.js 3D 액션 RPG — 원작자 허락 조건 안에서 v16을 이전·배포하고 음악·효과음을 교체 (원작 readasesang-lab.vercel.app/v16)",
    "category": "3D"
@@ -27,7 +27,7 @@
    "name": "솔트라인",
    "featured": true,
    "live": "https://sigco3111.github.io/saltline-ko/",
-   "screenshot": "https://github.com/sigco3111/saltline-ko/raw/HEAD/docs/screenshots/05-title-hd.webp",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/saltline-ko/HEAD/docs/screenshots/05-title-hd.webp",
    "type": "fork",
    "desc": "컨테이너 야적장과 창고에서 업링크 중계기 세 개를 차단하는 Three.js 1인칭 슈터 한글화 (원본 realskyrin/fps3ademo-saltline, Claude 아티팩트 Saltline 기반, 원본 라이선스 미표기)",
    "category": "3D"
@@ -37,7 +37,7 @@
    "name": "나무판 미로 · Tilt Labyrinth 木盘迷宫",
    "featured": true,
    "live": "https://sigco3111.github.io/tilt-labyrinth-ko/",
-   "screenshot": "https://github.com/sigco3111/tilt-labyrinth-ko/raw/HEAD/docs/screenshots/01-title.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/tilt-labyrinth-ko/HEAD/docs/screenshots/01-title.png",
    "type": "fork",
    "desc": "나무 미로판을 기울여 구슬을 굴리는 3D 퍼즐 한글화 (원작 majiayu000/blog, MIT, 텍스처 Poly Haven CC0)",
    "category": "3D"
@@ -57,7 +57,7 @@
    "live": "https://sigco3111.github.io/return-investor/",
    "desc": "회귀·진로·투자 선택을 다루는 비주얼 노벨형 투자 게임",
    "category": "2D게임",
-   "screenshot": "https://github.com/sigco3111/return-investor/raw/HEAD/2-readme-shot-start-20261116.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/return-investor/HEAD/2-readme-shot-start-20261116.png",
    "type": "original"
   },
   "41476f2e-9097-81b6-8f6f-c3a31a4ae9d3": {
@@ -65,7 +65,7 @@
    "name": "맞고2026 : 패담",
    "featured": true,
    "live": "https://sigco3111.github.io/gostop2026/",
-   "screenshot": "https://github.com/sigco3111/gostop2026/raw/HEAD/docs/screenshots/title.webp",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/gostop2026/HEAD/docs/screenshots/title.webp",
    "type": "original",
    "desc": "12인의 오리지널 고수와 겨루는 싱글 맞고",
    "category": "2D게임"
@@ -75,7 +75,7 @@
    "name": "붐 크리터스",
    "featured": true,
    "live": "https://sigco3111.github.io/boom-critters/",
-   "screenshot": "https://github.com/sigco3111/boom-critters/raw/HEAD/docs/screenshots/02-battle.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/boom-critters/HEAD/docs/screenshots/02-battle.png",
    "type": "original",
    "desc": "싱글플레이 턴제 포격 웹게임 (HTML5 Canvas, 웜즈·포트리스 스타일)",
    "category": "2D게임"
@@ -101,7 +101,7 @@
    "name": "권력의 질서",
    "featured": true,
    "live": "https://sigco3111.github.io/order-of-powers/",
-   "screenshot": "https://github.com/sigco3111/order-of-powers/raw/HEAD/docs/screenshots/01-title.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/order-of-powers/HEAD/docs/screenshots/01-title.png",
    "type": "original",
    "desc": "(전략 보드게임) 세계 질서를 둘러싼 강대국 경쟁 · 카드 기획과 지역 영향력 확대",
    "category": "2D게임"
@@ -111,7 +111,7 @@
    "name": "천하삼분 - 삼국지 전술 RPG",
    "featured": true,
    "live": "https://sigco3111.github.io/cheonha-sambun/",
-   "screenshot": "https://github.com/sigco3111/cheonha-sambun/raw/HEAD/docs/screenshots/title.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/cheonha-sambun/HEAD/docs/screenshots/title.png",
    "type": "original",
    "desc": "(전술 RPG) 오리지널 삼국지 전술 RPG · HTML5 Canvas 턴제 전술 · 첫 플레이어블 v0.1",
    "category": "2D게임"
@@ -129,7 +129,7 @@
    "name": "모든 희망을 버려라",
    "featured": true,
    "live": "https://sigco3111.github.io/abandon-all-hope-game/",
-   "screenshot": "https://github.com/sigco3111/abandon-all-hope-game/raw/HEAD/screenshots/screenshot-title.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/abandon-all-hope-game/HEAD/screenshots/screenshot-title.png",
    "type": "fork",
    "desc": "(슈터) 3D 1인칭 좀비 생존 슈터 — 웨이브마다 업그레이드를 골라 생존하는 Three.js 브라우저 게임",
    "category": "3D"
@@ -139,7 +139,7 @@
    "name": "포춘 듀오",
    "featured": true,
    "live": "https://sigco3111.github.io/fortune-duo/",
-   "screenshot": "https://github.com/sigco3111/fortune-duo/raw/HEAD/docs/screenshot.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/fortune-duo/HEAD/docs/screenshot.png",
    "type": "original",
    "desc": "(디펜스) AI 파트너와 함께하는 2인 협동 랜덤 합성 디펜스 - 소환·합성·도박·정예 성장(초월)으로 성문 방어",
    "category": "3D"
@@ -159,7 +159,7 @@
    "name": "Scam With Your Friends",
    "featured": true,
    "live": "https://sigco3111.github.io/scam-with-your-friends-web/",
-   "screenshot": "https://github.com/sigco3111/scam-with-your-friends-web/raw/HEAD/docs/screenshots-ko/boot-hud.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/scam-with-your-friends-web/HEAD/docs/screenshots-ko/boot-hud.png",
    "type": "fork",
    "desc": "(시뮬레이션) AI 콜센터 시뮬레이션의 비공식 한글 포크(원본 MIT)",
    "category": "3D"
@@ -169,7 +169,7 @@
    "name": "Q-Gress",
    "featured": true,
    "live": "https://sigco3111.github.io/Q-gress/",
-   "screenshot": "https://github.com/sigco3111/Q-gress/raw/HEAD/docs/screenshots-ko/gameplay.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/Q-gress/HEAD/docs/screenshots-ko/gameplay.png",
    "type": "fork",
    "desc": "(시뮬레이션)Ingress 스타일 AI 대 AI 실제 지도(위성 + 3D 건물) 포털 점령 시뮬 비공식 한글 포크.",
    "category": "3D"
@@ -179,7 +179,7 @@
    "name": "딱 반",
    "featured": true,
    "live": "https://sigco3111.github.io/exact-half/",
-   "screenshot": "https://github.com/sigco3111/exact-half/raw/HEAD/screenshots/1-01-pick.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/exact-half/HEAD/screenshots/1-01-pick.png",
    "type": "original",
    "desc": "눈대중으로 물체를 정확히 반으로 자르는 웹 퍼즐 — 21종 오브젝트, 3D 미리보기 선택, 연습 모드, 오브젝트별 로컬 기록·배지 (참고 원작: itland half-cut)",
    "category": "3D"
@@ -189,7 +189,7 @@
    "name": "프리즘 커런츠",
    "featured": true,
    "live": "https://sigco3111.github.io/prism-currents/",
-   "screenshot": "https://github.com/sigco3111/prism-currents/raw/HEAD/screenshot.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/prism-currents/HEAD/screenshot.jpg",
    "type": "fork",
    "desc": "(인터랙티브 아트) · 흐름장을 따라 유영하는 수만 개의 프리즘 WebGL2 아트 — wtc-gl+Tweakpane (원작 Liam Egan, CodePen, MIT)",
    "category": "시각화"
@@ -207,7 +207,7 @@
    "name": "삼국지 샌드박스",
    "featured": true,
    "live": "https://sigco3111.github.io/samgukji-sandbox/",
-   "screenshot": "https://github.com/sigco3111/samgukji-sandbox/raw/HEAD/docs/screenshots/world-map.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/samgukji-sandbox/HEAD/docs/screenshots/world-map.png",
    "type": "original",
    "desc": "삼국지11 방식의 비공식 독립 팬 제작 웹 시뮬레이션 (3D 지도, 위임/세력전환, 독자 데이터)",
    "category": "2D게임"
@@ -217,7 +217,7 @@
    "name": "Syna - Waveshare ESP32-S3 RLCD 데스크톱 어시스턴트",
    "featured": true,
    "live": null,
-   "screenshot": "https://github.com/sigco3111/Waveshare_ESP32_RLCD/raw/HEAD/docs/screenshot.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/Waveshare_ESP32_RLCD/HEAD/docs/screenshot.png",
    "type": "fork",
    "desc": "Syna - Waveshare ESP32-S3 RLCD 데스크톱 어시스턴트와 Windows/macOS Reporter 동반 프로그램",
    "category": "일반앱"
@@ -227,7 +227,7 @@
    "name": "배낭 속 미궁",
    "featured": true,
    "live": "https://sigco3111.github.io/backpack-labyrinth/",
-   "screenshot": "https://github.com/sigco3111/backpack-labyrinth/raw/HEAD/docs/screenshots/combat.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/backpack-labyrinth/HEAD/docs/screenshots/combat.png",
    "type": "original",
    "desc": "(로그라이크) 배낭 정리 로그라이크 - 인벤토리 배치·합성·영구 강화로 던전 자동 탐험",
    "category": "3D"
@@ -237,7 +237,7 @@
    "name": "Last Stand (라스트 스탠드)",
    "featured": true,
    "live": "https://sigco3111.github.io/last-stand/",
-   "screenshot": "https://github.com/sigco3111/last-stand/raw/HEAD/docs/screenshots/combat.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/last-stand/HEAD/docs/screenshots/combat.png",
    "type": "fork",
    "desc": "(액션RPG) Last Stand 한국어판 - 3D 웨이브 생존 ARPG 한글화 (UI·클래스·아이템·README, MIT, 영문 원본 보존)",
    "category": "3D"
@@ -247,7 +247,7 @@
    "name": "생츄어리즈 엔드",
    "featured": true,
    "live": "https://sigco3111.github.io/Sanctuarys_End/sanctuary.html",
-   "screenshot": "https://github.com/sigco3111/Sanctuarys_End/raw/HEAD/image.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/Sanctuarys_End/HEAD/image.png",
    "type": "fork",
    "desc": "(액션RPG) Sanctuary's End 한국어판 - 3D ARPG 한글화 (UI·아이템·스킬·위키·README, MIT, 원본 README.en.md 보존)",
    "category": "3D"
@@ -289,7 +289,7 @@
    "name": "게임 에셋 카탈로그",
    "featured": true,
    "live": "https://sigco3111.github.io/game-asset-catalog/",
-   "screenshot": "https://github.com/sigco3111/game-asset-catalog/raw/HEAD/4-game-asset-catalog.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/game-asset-catalog/HEAD/4-game-asset-catalog.jpg",
    "type": "original",
    "desc": "재사용 게임 에셋 도서관 - 151개 팩을 검색·필터·미리보기로 찾는 사이트 (출처·라이선스 표시, catalog.csv로 자동 갱신)",
    "category": "기타"
@@ -299,7 +299,7 @@
    "name": "브릭랜드",
    "featured": true,
    "live": "https://sigco3111.github.io/lego-stylized-nature/",
-   "screenshot": "https://github.com/sigco3111/lego-stylized-nature/raw/HEAD/docs/readmeImg/optimized/hero.webp",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/lego-stylized-nature/HEAD/docs/readmeImg/optimized/hero.webp",
    "type": "fork",
    "desc": "(비행 탐험) 브릭랜드 한국어판 - 절차 생성 세계를 블록 비행기로 자유 탐험 (원작: hexianWeb/lego-stylized-nature, 원본 라이선스 없음 주의)",
    "category": "3D"
@@ -309,7 +309,7 @@
    "name": "Sheepdog Sim (양몰이 심)",
    "featured": true,
    "live": "https://sigco3111.github.io/sds/",
-   "screenshot": "https://github.com/sigco3111/sds/raw/HEAD/docs/screenshots/sds-title.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/sds/HEAD/docs/screenshots/sds-title.jpg",
    "type": "fork",
    "desc": "(시뮬레이션) 양몰이 심 한국어판 - 양떼를 우리로 몰아넣는 셀 셰이딩 브라우저 게임 한글화 (원작: matthew-kissinger/sds, AGPL-3.0)",
    "category": "3D"
@@ -319,7 +319,7 @@
    "name": "와룡전(臥龍傳) Web",
    "featured": true,
    "live": "https://sigco3111.github.io/dragon/web/",
-   "screenshot": "https://github.com/sigco3111/dragon/raw/HEAD/docs/screenshots/L1_title.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/dragon/HEAD/docs/screenshots/L1_title.png",
    "type": "fork",
    "desc": "(전략 시뮬레이션) 와룡전: 삼국제패지계 Web 한국어판 샘플 - 시작 메뉴·전략 화면 UI 한글화 (원작: tianyi092-jcza/dragon, 코드 MIT)",
    "category": "2D게임"
@@ -329,7 +329,7 @@
    "name": "트램프 프레이터 블루스",
    "featured": true,
    "live": "https://sigco3111.github.io/tramp-freighter/",
-   "screenshot": "https://github.com/sigco3111/tramp-freighter/raw/HEAD/screenshots/1-station-info-broker.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/tramp-freighter/HEAD/screenshots/1-station-info-broker.png",
    "type": "fork",
    "desc": "(시뮬레이션) 트램프 프레이터 블루스 한국어판 - 우주 교역 생존 게임 한글화 (원작: Ovid/tramp-freighter)",
    "category": "2D게임"
@@ -339,7 +339,7 @@
    "name": "EXILIUM",
    "featured": true,
    "live": "https://sigco3111.github.io/exilum/",
-   "screenshot": "https://github.com/sigco3111/exilum/raw/HEAD/screenshots/8-dungeon-hud.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/exilum/HEAD/screenshots/8-dungeon-hud.png",
    "type": "fork",
    "desc": "(RPG) Exilum 한국어판 - 디아블로 스타일 RPG 한글화 (원작: Sonali-Sharma-tech/exilum)",
    "category": "3D"
@@ -349,7 +349,7 @@
    "name": "백룸 이스케이프",
    "featured": true,
    "live": "https://sigco3111.github.io/Backroom-Escape/",
-   "screenshot": "https://github.com/sigco3111/Backroom-Escape/raw/HEAD/5-Backroom-Escape.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/Backroom-Escape/HEAD/5-Backroom-Escape.jpg",
    "type": "fork",
    "desc": "(공포) Backroom Escape 한국어판 - 3D 미로 탈출 게임 한글화 (원작: StarKnightt/Backroom-Escape)",
    "category": "3D"
@@ -359,7 +359,7 @@
    "name": "Corsairs: Wind of Freedom",
    "featured": true,
    "live": "https://sigco3111.github.io/corsairs/",
-   "screenshot": "https://github.com/sigco3111/corsairs/raw/HEAD/docs/screenshots/battle.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/corsairs/HEAD/docs/screenshots/battle.png",
    "type": "fork",
    "desc": "(항해·교역) Corsairs 한국어판 - Godot 기반 해양 모험·교역 게임 한글화 (원작: Elkhan-Isayev/corsairs, MIT)",
    "category": "3D"
@@ -369,7 +369,7 @@
    "name": "시대의 물결",
    "featured": true,
    "live": "https://sigco3111.github.io/genesis-atlas/",
-   "screenshot": "https://github.com/sigco3111/genesis-atlas/raw/HEAD/docs/real.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/genesis-atlas/HEAD/docs/real.png",
    "type": "original",
    "desc": "(시뮬레이션) 시대의 물결 — 지도 위에서 문명이 흥망성쇠하는 모습을 지켜보는 신 시뮬레이터",
    "category": "2D게임"
@@ -379,7 +379,7 @@
    "name": "TIDEWRIGHT (타이드라이트)",
    "featured": true,
    "live": "https://sigco3111.github.io/tidewright/",
-   "screenshot": "https://github.com/sigco3111/tidewright/raw/HEAD/docs/hero.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/tidewright/HEAD/docs/hero.jpg",
    "type": "fork",
    "desc": "(시뮬레이션) 타이드라이트 한국어판 - 100% GPU 3D 모래성 시뮬레이터 한글화 (원작: winchxyz/tidewright)",
    "category": "3D"
@@ -397,7 +397,7 @@
    "name": "레드 샌즈",
    "featured": false,
    "live": "https://sigco3111.github.io/red-sands/",
-   "screenshot": "https://github.com/sigco3111/red-sands/raw/HEAD/docs/media/hero.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/red-sands/HEAD/docs/media/hero.jpg",
    "type": "fork",
    "desc": "(오픈월드) 레드 샌즈 한국어판 - 브라우저에서 즐기는 절차적 생성 오픈월드 서부극 (gillworks/red-sands 한글화)",
    "category": "3D"
@@ -407,7 +407,7 @@
    "name": "패권의 시간 — 배포 저장소",
    "featured": false,
    "live": "https://sigco3111.github.io/hegemony-war-pages/",
-   "desc": "패권의 시간 — GitHub Pages 배포 저장소. 실게임 저장소: https://github.com/sigco3111/hegemony-war",
+   "desc": "패권의 시간 — GitHub Pages 배포 저장소. 실게임 저장소: https://github.com/dogebi/hegemony-war",
    "category": "2D게임"
   },
   "40076f2e-9097-818a-b09b-e5db48fa62c4": {
@@ -415,7 +415,7 @@
    "name": "패권의 시간",
    "featured": true,
    "live": "https://sigco3111.github.io/hegemony-war-pages/",
-   "screenshot": "https://github.com/sigco3111/hegemony-war/raw/HEAD/docs/screenshots/game.webp",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/hegemony-war/HEAD/docs/screenshots/game.webp",
    "type": "fork",
    "desc": "(전략) 패권의 시간 — OpenFront 싱글 플레이 개선판",
    "category": "2D게임"
@@ -425,7 +425,7 @@
    "name": "대항해시대2 for Web",
    "featured": true,
    "live": "https://sigco3111.github.io/unchartedwaters2/",
-   "screenshot": "https://github.com/sigco3111/unchartedwaters2/raw/HEAD/screenshot.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/unchartedwaters2/HEAD/screenshot.png",
    "type": "fork",
    "desc": "(RPG) 대항해시대2를 웹으로 편하게 즐기자!",
    "category": "2D게임"
@@ -435,7 +435,7 @@
    "name": "심연의 등불",
    "featured": true,
    "live": "https://sigco3111.github.io/abyss-lantern/",
-   "screenshot": "https://github.com/sigco3111/abyss-lantern/raw/HEAD/6-abyss-lantern.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/abyss-lantern/HEAD/6-abyss-lantern.jpg",
    "type": "original",
    "desc": "(오토배틀) 심연의 등불 — 코어 수호 + 진형 배치 오토 배틀",
    "category": "2D게임"
@@ -445,7 +445,7 @@
    "name": "Notbell",
    "featured": true,
    "live": "https://sigco3111.github.io/Notbell/",
-   "screenshot": "https://github.com/sigco3111/Notbell/raw/HEAD/7-Notbell.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/Notbell/HEAD/7-Notbell.jpg",
    "type": "fork",
    "desc": "(시뮬레이션) three.js로 만든 작은 로우폴리 마을 생활 군도. 낚시·채집·주민과의 수다 등 소소한 섬 생활을 즐기는 동물의 숲 스타일 힐링 게임. 빌드 없이 동작하며 브라우저에 저장 (brezgis 원작, MIT)",
    "category": "3D"
@@ -455,7 +455,7 @@
    "name": "페릴러스 웨이즈",
    "featured": true,
    "live": "https://sigco3111.github.io/perilous-ways/",
-   "screenshot": "https://github.com/sigco3111/perilous-ways/raw/HEAD/8-perilous-ways.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/perilous-ways/HEAD/8-perilous-ways.jpg",
    "type": "fork",
    "desc": "(시뮬레이션) 하플링, 드워프, 엘프, 인간, 오크가 사는 대륙을 무대로 한 3D 세계 시뮬레이션입니다. 당신은 왕국 교통청(Realm Transit Authority)의 청장입니다.",
    "category": "3D"
@@ -473,7 +473,7 @@
    "name": "푸른 순환",
    "featured": false,
    "live": "https://sigco3111.github.io/blue-cycle/",
-   "screenshot": "https://github.com/sigco3111/blue-cycle/raw/HEAD/9-blue-cycle.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/blue-cycle/HEAD/9-blue-cycle.jpg",
    "type": "original",
    "desc": "(시뮬레이션) 손대지 않아도 먹이사슬이 저절로 돌아가는 방치형 생태계 수족관",
    "category": "2D게임"
@@ -483,7 +483,7 @@
    "name": "다시, 지구",
    "featured": true,
    "live": "https://sigco3111.github.io/dashi-jigu/",
-   "screenshot": "https://github.com/sigco3111/dashi-jigu/raw/HEAD/docs/screenshot-1.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/dashi-jigu/HEAD/docs/screenshot-1.png",
    "type": "original",
    "desc": "(시뮬레이션) 공개 통계로 출생지를 추첨하고, 태어나서 죽을 때까지를 약 3분 동안 살아 보는 텍스트 인생 시뮬레이션 웹게임",
    "category": "2D게임"
@@ -493,7 +493,7 @@
    "name": "FLOW CAPITAL",
    "featured": true,
    "live": "https://sigco3111.github.io/supply-chain-tycoon/",
-   "screenshot": "https://github.com/sigco3111/supply-chain-tycoon/raw/HEAD/docs/1-network.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/supply-chain-tycoon/HEAD/docs/1-network.png",
    "type": "original",
    "desc": "(경영) 방치형 공급망 타이쿤 · 노드 기반 경제 시뮬레이션 프로토타입",
    "category": "2D게임"
@@ -503,7 +503,7 @@
    "name": "영웅서기 솔티아의 바람: 리마스터 ",
    "featured": true,
    "live": "https://sigco3111.github.io/hero-lord-web/",
-   "screenshot": "https://github.com/sigco3111/hero-lord-web/raw/HEAD/docs/img/crt-menu.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/hero-lord-web/HEAD/docs/img/crt-menu.jpg",
    "type": "fork",
    "desc": "(RPG) 영웅서기 솔티아의 바람: 리마스터 · 웹 포크 - 자동전투 및 그래픽 옵션 추가",
    "category": "2D게임"
@@ -515,14 +515,14 @@
    "live": "https://sigco3111.github.io/afk-ide/",
    "desc": "(RPG) AFK IDE - IDE처럼 보이는 정통 판타지 방치형 RPG. 자동 모험, 개입 설정, 암호화 저장.",
    "category": "2D게임",
-   "screenshot": "https://github.com/sigco3111/afk-ide/raw/HEAD/1-final-adventure.png"
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/afk-ide/HEAD/1-final-adventure.png"
   },
   "3f976f2e-9097-8176-837b-fa0a7da7a5ff": {
    "repo": "folio-2025",
    "name": "Bruno Simon Folio 2025",
    "featured": true,
    "live": "https://sigco3111.github.io/folio-2025/",
-   "screenshot": "https://github.com/sigco3111/folio-2025/raw/HEAD/3-folio-world.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/folio-2025/HEAD/3-folio-world.png",
    "type": "fork",
    "desc": "자동차로 탐험하는 Bruno Simon 원작 게임형 포트폴리오의 한국어 정적판",
    "category": "3D"
@@ -548,7 +548,7 @@
    "name": "KINEMA",
    "featured": true,
    "live": "https://sigco3111.github.io/Kinema/",
-   "screenshot": "https://github.com/sigco3111/Kinema/raw/HEAD/3-ko-menu.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/Kinema/HEAD/3-ko-menu.png",
    "type": "fork",
    "desc": "TypeScript, Three.js, Rapier 물리 엔진으로 만든 3인칭 게임플레이 실험실과 브라우저 레벨 편집기입니다. 2600th/Kinema 원작의 한국어 포크",
    "category": "3D"
@@ -582,7 +582,7 @@
    "name": "Contril",
    "featured": true,
    "live": "https://sigco3111.github.io/Contril/",
-   "screenshot": "https://github.com/sigco3111/Contril/raw/HEAD/1-ko-gameplay.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/Contril/HEAD/1-ko-gameplay.png",
    "type": "fork",
    "desc": "셀셰이딩 바다 위에서 AI 보트 3대와 겨루는 3D 아케이드 보트 레이싱",
    "category": "3D"
@@ -592,7 +592,7 @@
    "name": "메트로폴리스",
    "featured": true,
    "live": "https://sigco3111.github.io/metropolis-city-builder/",
-   "screenshot": "https://github.com/sigco3111/metropolis-city-builder/raw/HEAD/screenshots/8-spring-day.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/metropolis-city-builder/HEAD/screenshots/8-spring-day.png",
    "type": "original",
    "desc": "(경영) 메트로폴리스 도시경영 - 등각투영 도시에 건설/철거",
    "category": "3D"
@@ -610,7 +610,7 @@
    "name": "복셀 무쌍",
    "featured": true,
    "live": "https://sigco3111.github.io/voxel-musou/",
-   "screenshot": "https://github.com/sigco3111/voxel-musou/raw/HEAD/media/promo.gif",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/voxel-musou/HEAD/media/promo.gif",
    "type": "fork",
    "desc": "(액션) 복셀 무쌍 - 삼국지 장수 7명, 이야기 4장, 시련 3개와 수백 명의 병사를 상대하는 브라우저 액션. (원작: mike007jd/voxel-musou)",
    "category": "3D"
@@ -620,7 +620,7 @@
    "name": "여름 자전거",
    "featured": true,
    "live": "https://sigco3111.github.io/summer-cycle/",
-   "screenshot": "https://github.com/sigco3111/summer-cycle/raw/HEAD/media/reel.webp",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/summer-cycle/HEAD/media/reel.webp",
    "type": "fork",
    "desc": "지브리/신카이풍 일본 시골 자전거 게임 한국어판 - Three.js 툰셰이딩, 4개 시간대, 모든 메시·텍스처·사운드를 코드로 생성 (원작: StarKnightt/summer-cycle)",
    "category": "3D"
@@ -662,7 +662,7 @@
    "name": "VOID PULSE",
    "featured": true,
    "live": "https://sigco3111.github.io/void-pulse/",
-   "screenshot": "https://github.com/sigco3111/void-pulse/raw/HEAD/assets/screenshots/gameplay.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/void-pulse/HEAD/assets/screenshots/gameplay.jpg",
    "type": "fork",
    "desc": "(슈팅) 무리를 뚫고 무기를 진화시켜 원자로를 탈환하는 네온 SF 생존 슈터. 브라우저 싱글 플레이 + 2-4인 LAN 협동. (원작: GameDev4Funs/void-pulse 한글화 포크)🔀🍴 [한글화/포크] (3D) (슈팅) 무리를 뚫고 무기를 진화시켜 원자로를 탈환하는 네온 SF",
    "category": "3D"
@@ -672,7 +672,7 @@
    "name": "시티 드라이버 2",
    "featured": true,
    "live": "https://sigco3111.github.io/citydriver2/",
-   "screenshot": "https://github.com/sigco3111/citydriver2/raw/HEAD/14-citydriver2.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/citydriver2/HEAD/14-citydriver2.jpg",
    "type": "fork",
    "desc": "(레이싱) 절차 생성 도시의 3D 택시 운전 및 철거 게임",
    "category": "3D"
@@ -682,7 +682,7 @@
    "name": "네온 제니스",
    "featured": true,
    "live": "https://sigco3111.github.io/neon-zenith/",
-   "screenshot": "https://github.com/sigco3111/neon-zenith/raw/HEAD/docs/media/hero.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/neon-zenith/HEAD/docs/media/hero.jpg",
    "type": "fork",
    "desc": "(레이싱) 비 내리는 수직 도시를 달리고 날아다니는 브라우저 3D 게임",
    "category": "3D"
@@ -692,7 +692,7 @@
    "name": "인비지블 시티즈 Opus 5.5",
    "featured": true,
    "live": "https://sigco3111.github.io/invisible-cities-opus-5.5/",
-   "screenshot": "https://github.com/sigco3111/invisible-cities-opus-5.5/raw/HEAD/10-invisible-cities-opus-5.5.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/invisible-cities-opus-5.5/HEAD/10-invisible-cities-opus-5.5.jpg",
    "type": "fork",
    "desc": "(시각화) 마르코 폴로가 쿠빌라이 칸에게 들려주는 55개의 도시",
    "category": "3D"
@@ -710,7 +710,7 @@
    "name": "스미나가시 墨流し",
    "featured": true,
    "live": "https://sigco3111.github.io/suminagashi/",
-   "screenshot": "https://github.com/sigco3111/suminagashi/raw/HEAD/public/og-image.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/suminagashi/HEAD/public/og-image.jpg",
    "type": "fork",
    "desc": "(시뮬) · 물 위 먹 마블링 실시간 시뮬 — React+Vite+Three.js+WebGL2",
    "category": "3D"
@@ -768,7 +768,7 @@
    "name": "라인월드",
    "featured": true,
    "live": "https://sigco3111.github.io/Lineworld/",
-   "screenshot": "https://github.com/sigco3111/Lineworld/raw/HEAD/media/dog.gif",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/Lineworld/HEAD/media/dog.gif",
    "type": "fork",
    "desc": "(시뮬) · 손전등을 든 강아지가 선으로 그려진 숲을 걷는다 — 절차적 Three.js + Vite + TypeScript, 원본 muratkamci/Lineworld",
    "category": "3D"
@@ -818,7 +818,7 @@
    "name": "SoldierThirdPersonThreeJS",
    "featured": true,
    "live": "https://sigco3111.github.io/SoldierThirdPersonThreeJS/",
-   "screenshot": "https://github.com/sigco3111/SoldierThirdPersonThreeJS/raw/HEAD/11-SoldierThirdPersonThreeJS.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/SoldierThirdPersonThreeJS/HEAD/11-SoldierThirdPersonThreeJS.jpg",
    "type": "fork",
    "desc": "(액션) · 3인칭 솔저 한국어판 · 무기·술법·가호 — Three.js+Vite+lil-gui",
    "category": "3D"
@@ -854,7 +854,7 @@
    "name": "조크 · 위대한 지하 제국",
    "featured": true,
    "live": "https://sigco3111.github.io/zork-underground-empire/",
-   "screenshot": "https://github.com/sigco3111/zork-underground-empire/raw/HEAD/emollick/zork-underground-empire/raw/codex/public-release/public/social/zork-social.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/zork-underground-empire/HEAD/emollick/zork-underground-empire/raw/codex/public-release/public/social/zork-social.jpg",
    "type": "fork",
    "desc": "Zork I의 비공식 한글화 포크. emollick/zork-underground-empire를 북유모 계정으로 복제 후 모든 인게임 텍스트, UI, 메시지를 자연스러운 한국어로 번역. Vite + Three.js 1인칭 3D 탐험 어댑테이션, 30개 구역 + 19개 보물 +",
    "category": "3D"
@@ -864,7 +864,7 @@
    "name": "연대기 — 스스로 살아가는 왕국",
    "featured": true,
    "live": "https://sigco3111.github.io/annals-kingdom/",
-   "screenshot": "https://github.com/sigco3111/annals-kingdom/raw/HEAD/share.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/annals-kingdom/HEAD/share.jpg",
    "type": "fork",
    "desc": "(시뮬) · 스스로 살아가는 중세 왕국 시뮬레이터 — Vanilla JS+Three.js",
    "category": "2D게임"
@@ -890,7 +890,7 @@
    "name": "보이드러너 아스트라",
    "featured": true,
    "live": "https://sigco3111.github.io/voidrunner-astra/",
-   "screenshot": "https://github.com/sigco3111/voidrunner-astra/raw/HEAD/12-voidrunner-astra.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/voidrunner-astra/HEAD/12-voidrunner-astra.jpg",
    "type": "fork",
    "desc": "(레이서) · 반중력 combat racer 한글판 — Three.js+WebGL+GLSL",
    "category": "3D"
@@ -908,7 +908,7 @@
    "name": "고흐 스트라이크",
    "featured": true,
    "live": "https://sigco3111.github.io/gogh-strike/",
-   "screenshot": "https://github.com/sigco3111/gogh-strike/raw/HEAD/docs/screenshots/gameplay.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/gogh-strike/HEAD/docs/screenshots/gameplay.png",
    "type": "fork",
    "desc": "(액션) · 12명의 화가 6vs6 브라우저 슈터 반 고흐 마을 — Three.js+ESM",
    "category": "3D"
@@ -918,7 +918,7 @@
    "name": "피아차 우니리",
    "featured": true,
    "live": "https://sigco3111.github.io/piata-unirii/",
-   "screenshot": "https://github.com/sigco3111/piata-unirii/raw/HEAD/13-piata-unirii.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/piata-unirii/HEAD/13-piata-unirii.jpg",
    "type": "fork",
    "desc": "Piața Unirii (클루즈나포카 통일광장) — 동일 명세를 여러 코딩 에이전트가 독립 구현한 복셀 아트 미니어처 비교 (한국어화)",
    "category": "3D"
@@ -928,7 +928,7 @@
    "name": "ABYSSAL",
    "featured": true,
    "live": "https://sigco3111.github.io/abyssal-living-deep/",
-   "screenshot": "https://github.com/sigco3111/abyssal-living-deep/raw/HEAD/docs/media/living-surface.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/abyssal-living-deep/HEAD/docs/media/living-surface.jpg",
    "type": "fork",
    "desc": "(시각화/시뮬) · ABYSSAL의 살아 있는 바다 — 시드 기반 산호초·켈프 숲·심해의 정원 + 살아 있는 야생 생물 + 극단적 날씨 시뮬레이션. Three.js 단일 의존성, Vite 빌드, MIT 라이선스 보존.",
    "category": "3D"
@@ -938,7 +938,7 @@
    "name": "수박 연구소",
    "featured": true,
    "live": "https://sigco3111.github.io/watermelon-lab/",
-   "screenshot": "https://github.com/sigco3111/watermelon-lab/raw/HEAD/3-watermelon-lab.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/watermelon-lab/HEAD/3-watermelon-lab.jpg",
    "type": "fork",
    "desc": "GPT-6 Astra One Shot 테스트의 멜론 게임(瓜体实验室) 한글화. zh-CN → ko, 97개 UI 구간 + 9개 과일명 + 3개 물성모드 + 다이얼로그 완전 번역. 한자 잔여 0자, 중국식 부호 0개. 단일 HTML 5.26MB로 Pages 배포, 백엔드/DB 불필요.",
    "category": "2D게임"
@@ -956,7 +956,7 @@
    "name": "Fable 5 쇼케이스",
    "featured": true,
    "live": "https://sigco3111.github.io/FABLE-SHOWCASE/",
-   "screenshot": "https://github.com/sigco3111/FABLE-SHOWCASE/raw/HEAD/20-FABLE-SHOWCASE.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/FABLE-SHOWCASE/HEAD/20-FABLE-SHOWCASE.jpg",
    "type": "fork",
    "desc": "· Fable 5 쇼케이스 57개 데모 한국어판. 단일 프롬프트로 하루 동안 만들어진 57개의 독립 실행형 창의적 웹 데모 (생성형 아트, 시뮬레이션, 물리, 세계, 사운드, 플레이) — Claude Fable 5 에이전트 군이 설계/구축/QA 종단간 수행. 각 데모는 의존성 0인 단일",
    "category": "시각화"
@@ -974,7 +974,7 @@
    "name": "LAAS — 절차적 4×4km 월드",
    "featured": true,
    "live": "https://sigco3111.github.io/fable5-world-demo/",
-   "screenshot": "https://github.com/sigco3111/fable5-world-demo/raw/HEAD/docs/readme-hero.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/fable5-world-demo/HEAD/docs/readme-hero.jpg",
    "type": "fork",
    "desc": "브라우저 WebGPU에서 동작하는 완전 절차적 4×4km 월드 three.js TSL WGSL TypeScript strict. 한글 UI 70+ 문자열 패치.",
    "category": "3D"
@@ -1008,7 +1008,7 @@
    "name": "로텐 수프",
    "featured": true,
    "live": "https://sigco3111.github.io/Rotten-Soup/",
-   "screenshot": "https://github.com/sigco3111/Rotten-Soup/raw/HEAD/docs/screenshot.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/Rotten-Soup/HEAD/docs/screenshot.png",
    "type": "fork",
    "desc": "(RPG) · Vue+Vuetify 기반 브라우저 턴제 로그라이크 — Vue2+Vuetify1+PixiJS+rot.js+Tiled. 원본: Larkenx/Rotten-Soup (GPL-3.0). 23개 Vue 컴포넌트 + 90+개 JS 파일의 UI/게임 텍스트, 4종 NPC 대화, 8종",
    "category": "2D게임"
@@ -1018,7 +1018,7 @@
    "name": "VOIDSTRIKE",
    "featured": true,
    "live": "https://sigco3111.github.io/voidstrike/",
-   "screenshot": "https://github.com/sigco3111/voidstrike/raw/HEAD/docs/voidstrike-social.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/voidstrike/HEAD/docs/voidstrike-social.png",
    "type": "fork",
    "desc": "(전략) · 브라우저 멀티플레이어 사이파이 RTS 한글화 — Three.js+WebGPU+Next.js",
    "category": "3D"
@@ -1036,7 +1036,7 @@
    "name": "퀵 던전 크롤러 온 디맨드",
    "featured": true,
    "live": "https://sigco3111.github.io/quick-dungeon-crawler-rpg-od/",
-   "screenshot": "https://github.com/sigco3111/quick-dungeon-crawler-rpg-od/raw/HEAD/assets/screenshots/combat.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/quick-dungeon-crawler-rpg-od/HEAD/assets/screenshots/combat.png",
    "type": "fork",
    "desc": "(RPG) · 엔들리스 던전 크롤러 한글화 — HTML+JS+CSS+PWA, AGPL-3.0",
    "category": "2D게임"
@@ -1046,7 +1046,7 @@
    "name": "랜턴 7",
    "featured": true,
    "live": "https://sigco3111.github.io/neon-vector-defense/",
-   "screenshot": "https://github.com/sigco3111/neon-vector-defense/raw/HEAD/public/og-image.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/neon-vector-defense/HEAD/public/og-image.jpg",
    "type": "fork",
    "desc": "SF 타워 디펜스 게임. React 19 + TypeScript + Canvas. 21개 타워 × 2 업그레이드 경로, 16개 섹터, 4단계 프로토콜. 한글화 + gh-pages 데모. 원본: Calculator5329/neon-vector-defense (MIT)",
    "category": "2D게임"
@@ -1056,7 +1056,7 @@
    "name": "라스트 리퓨지",
    "featured": true,
    "live": "https://sigco3111.github.io/city-builder-survival/",
-   "screenshot": "https://github.com/sigco3111/city-builder-survival/raw/HEAD/docs/screenshot-defense.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/city-builder-survival/HEAD/docs/screenshot-defense.png",
    "type": "fork",
    "desc": "(시뮬) · 낮에 짓고 밤에 살아남는 포스트 아포칼립스 도시 건설 — Three.js+Vite",
    "category": "2D게임"
@@ -1082,7 +1082,7 @@
    "name": "클로드 오브 탱크",
    "featured": true,
    "live": "https://sigco3111.github.io/Claude-of-Tanks-ko/",
-   "screenshot": "https://github.com/sigco3111/Claude-of-Tanks-ko/raw/HEAD/public/brand/og-image.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/Claude-of-Tanks-ko/HEAD/public/brand/og-image.png",
    "type": "fork",
    "desc": "(액션) · 브라우저에서 도는 111대 절차적 전차 + 20 전장 + 물리 탄도 - 솔로 게임 - Three.js + TypeScript + Vite",
    "category": "3D"
@@ -1100,7 +1100,7 @@
    "name": "프린스턴 타워 디펜스",
    "featured": true,
    "live": "https://sigco3111.github.io/Princeton-Tower-Defense/",
-   "screenshot": "https://github.com/sigco3111/Princeton-Tower-Defense/raw/HEAD/public/images/new/gameplay_grounds.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/Princeton-Tower-Defense/HEAD/public/images/new/gameplay_grounds.png",
    "type": "fork",
    "desc": "(전략시뮬레이션) · 26개 레벨 + 7개 타워 + 9명 영웅 + 6개 주문 - React+Canvas 2D+Next.js",
    "category": "2D게임"
@@ -1110,7 +1110,7 @@
    "name": "코그 앤 코스모스",
    "featured": true,
    "live": "https://sigco3111.github.io/Cog-and-Cosmos/",
-   "screenshot": "https://github.com/sigco3111/Cog-and-Cosmos/raw/HEAD/15-Cog-and-Cosmos.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/Cog-and-Cosmos/HEAD/15-Cog-and-Cosmos.jpg",
    "type": "fork",
    "desc": "2D게임) (시뮬) · 8세계 연결 증분형 방치 — Svelte5+PixiJS v8+PWA",
    "category": "2D게임"
@@ -1120,7 +1120,7 @@
    "name": "바이브 워즈",
    "featured": true,
    "live": "https://sigco3111.github.io/VibeWars/",
-   "screenshot": "https://github.com/sigco3111/VibeWars/raw/HEAD/16-VibeWars.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/VibeWars/HEAD/16-VibeWars.jpg",
    "type": "fork",
    "desc": "(전략) · 브라우저에서 도는 육각 그리드 턴제 전략 게임 — Three.js+TypeScript+Vite",
    "category": "3D"
@@ -1154,7 +1154,7 @@
    "name": "에메랄드 베이유",
    "featured": true,
    "live": "https://sigco3111.github.io/emerald-bayou/",
-   "screenshot": "https://github.com/sigco3111/emerald-bayou/raw/HEAD/docs/screenshots/01-hero.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/emerald-bayou/HEAD/docs/screenshots/01-hero.jpg",
    "type": "fork",
    "desc": "(시뮬) · 남플로리다 에어보트 1인칭 시뮬 — Three.js+Vite+WebGL",
    "category": "3D"
@@ -1164,7 +1164,7 @@
    "name": "ASTRAL FORGE // 성간 단조",
    "featured": true,
    "live": "https://sigco3111.github.io/astral-forge-threejs/",
-   "screenshot": "https://github.com/sigco3111/astral-forge-threejs/raw/HEAD/previews/gameplay-daylight.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/astral-forge-threejs/HEAD/previews/gameplay-daylight.png",
    "type": "fork",
    "desc": "(시뮬) · Three.js 1인칭 체소 성간 탐사 - Three.js+WebGL+vanilla JS",
    "category": "3D"
@@ -1182,7 +1182,7 @@
    "name": "감시자의 그림자",
    "featured": true,
    "live": "https://sigco3111.github.io/Shadow-of-the-Watchers/",
-   "screenshot": "https://github.com/sigco3111/Shadow-of-the-Watchers/raw/HEAD/docs/screenshot-game.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/Shadow-of-the-Watchers/HEAD/docs/screenshot-game.png",
    "type": "fork",
    "desc": "(전략) · 신화시대 종말론 RTS 한국어판 — Three.js+Vite",
    "category": "3D"
@@ -1192,7 +1192,7 @@
    "name": "aeon",
    "featured": true,
    "live": "https://sigco3111.github.io/aeon/",
-   "screenshot": "https://github.com/sigco3111/aeon/raw/HEAD/18-aeon.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/aeon/HEAD/18-aeon.jpg",
    "type": "fork",
    "desc": "(시뮬) · 모든 생물이 신경망을 가진 브라우저 신 게임 & 문명 시뮬 — VanillaJS",
    "category": "2D게임"
@@ -1202,7 +1202,7 @@
    "name": "아이들 히어로",
    "featured": true,
    "live": "https://sigco3111.github.io/idle-hero/",
-   "screenshot": "https://github.com/sigco3111/idle-hero/raw/HEAD/public/screenshots/preview.svg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/idle-hero/HEAD/public/screenshots/preview.svg",
    "type": "fork",
    "desc": "(RPG) · 브라우저 아이들 RPG 한국어판 — React+Vite+TypeScript+Three.js",
    "category": "2D게임"
@@ -1396,7 +1396,7 @@
    "name": "SNKRX 한국어화",
    "featured": true,
    "live": null,
-   "screenshot": "https://github.com/sigco3111/snkrx-clone/raw/HEAD/21-snkrx-clone.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/snkrx-clone/HEAD/21-snkrx-clone.jpg",
    "type": "fork",
    "desc": "(RPG) · SNKRX 한국어화 + UI/콘텐츠 개선",
    "category": "2D게임"
@@ -1582,7 +1582,7 @@
    "name": "Nim 모델 대시보드",
    "featured": true,
    "live": "https://nim-model-dashboard.streamlit.app/",
-   "screenshot": "https://github.com/sigco3111/nim-model-dashboard/raw/HEAD/3-nim-model-dashboard.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/nim-model-dashboard/HEAD/3-nim-model-dashboard.jpg",
    "type": "original",
    "desc": "(시각화) · NVIDIA NIM 모델 대시보드: 실시간 모델 상태, 응답 속도, 가용성 확인 도구. FastAPI 기반, 모바일 최적화, 동적 모델 목록 지원.",
    "category": "시각화"
@@ -2072,7 +2072,7 @@
    "name": "AI 이미지 생성기",
    "featured": true,
    "live": "https://sigco3111.github.io/ai-image-generator/",
-   "screenshot": "https://github.com/sigco3111/ai-image-generator/raw/HEAD/4-ai-image-generator.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/ai-image-generator/HEAD/4-ai-image-generator.jpg",
    "type": "original",
    "desc": "(생성기) · AI 이미지 생성기 - 무료 이미지 생성 — Pollinations.ai+Next.js",
    "category": "웹앱"
@@ -2106,7 +2106,7 @@
    "name": "Evolve 한국어판",
    "featured": true,
    "live": "https://sigco3111.github.io/evolve-kr",
-   "screenshot": "https://github.com/sigco3111/evolve-kr/raw/HEAD/docs/screenshot-korean-game.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/evolve-kr/HEAD/docs/screenshot-korean-game.png",
    "type": "fork",
    "desc": "(시뮬) · Evolve 한국어 + 한국 콘텐츠",
    "category": "2D게임"
@@ -3030,7 +3030,7 @@
    "name": "트레이더: STONKS-9800",
    "featured": true,
    "live": "https://sigco3111.github.io/stonks-9800/",
-   "screenshot": "https://github.com/sigco3111/stonks-9800/raw/HEAD/favicon.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/stonks-9800/HEAD/favicon.png",
    "type": "original",
    "desc": "(시뮬) · 레트로 터미널 스타일 주식 거래 시뮬레이션 게임",
    "category": "2D게임"
@@ -3040,7 +3040,7 @@
    "name": "에어 매니지먼트",
    "featured": true,
    "live": "https://sigco3111.github.io/air-management/",
-   "screenshot": "https://github.com/sigco3111/air-management/raw/HEAD/2-air-management.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/air-management/HEAD/2-air-management.jpg",
    "type": "original",
    "desc": "(시뮬) · 항공사 경영 시뮬레이션 게임",
    "category": "2D게임"
@@ -3050,7 +3050,7 @@
    "name": "아이언 돔",
    "featured": true,
    "live": "https://sigco3111.github.io/iron-dome/",
-   "screenshot": "https://github.com/sigco3111/iron-dome/raw/HEAD/5-iron-dome.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/iron-dome/HEAD/5-iron-dome.jpg",
    "type": "original",
    "desc": "(시뮬) · 3D 미사일 방어 시뮬레이션 게임",
    "category": "3D"
@@ -3172,7 +3172,7 @@
    "name": "VegetationGeneratorThreeJS",
    "featured": true,
    "live": "https://sigco3111.github.io/VegetationGeneratorThreeJS",
-   "screenshot": "https://github.com/sigco3111/VegetationGeneratorThreeJS/raw/HEAD/6-VegetationGeneratorThreeJS.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/VegetationGeneratorThreeJS/HEAD/6-VegetationGeneratorThreeJS.jpg",
    "type": "fork",
    "desc": "(생성기) · 절차적 식물 생성기 — Three.js WebGPU + Ivy/Tree 페인터 + 시네마틱",
    "category": "3D"
@@ -3208,7 +3208,7 @@
    "name": "카트 로얄 — Kart Royale",
    "featured": true,
    "live": "https://sigco3111.github.io/kart-royale/",
-   "screenshot": "https://github.com/sigco3111/kart-royale/raw/HEAD/docs/hero-drift.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/kart-royale/HEAD/docs/hero-drift.png",
    "type": "fork",
    "desc": "(레이싱) · Kart Royale 카트 레이싱 게임",
    "category": "3D"
@@ -3242,7 +3242,7 @@
    "name": "SamuraiThirdPersonTemplateThreeJS",
    "featured": true,
    "live": "https://sigco3111.github.io/SamuraiThirdPersonTemplateThreeJS/",
-   "screenshot": "https://github.com/sigco3111/SamuraiThirdPersonTemplateThreeJS/raw/HEAD/7-SamuraiThirdPersonTemplateThreeJS.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/SamuraiThirdPersonTemplateThreeJS/HEAD/7-SamuraiThirdPersonTemplateThreeJS.jpg",
    "type": "fork",
    "desc": "(액션) · Three.js 무장 사무라이 3인칭 템플릿 — 모션 워프된 근접전, 소환, 비행, 래그돌 사망, 장비 스튜디오",
    "category": "3D"
@@ -3318,7 +3318,7 @@
    "name": "SeedThree — 절차적 식물 생성기",
    "featured": true,
    "live": "https://sigco3111.github.io/SeedThree/",
-   "screenshot": "https://github.com/sigco3111/SeedThree/raw/HEAD/docs/media/hero_temperate.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/SeedThree/HEAD/docs/media/hero_temperate.png",
    "type": "fork",
    "desc": "(생성기) · WebGPU 절차적 식물·나무 생성기 — Three.js+WebGPU+Vite",
    "category": "3D"
@@ -3344,7 +3344,7 @@
    "name": "桜 Sakura — 영원한 꽃의 꽃잎",
    "featured": true,
    "live": "https://sigco3111.github.io/sakura-idle/",
-   "screenshot": "https://github.com/sigco3111/sakura-idle/raw/HEAD/docs/hero.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/sakura-idle/HEAD/docs/hero.png",
    "type": "fork",
    "desc": "(시뮬) · 벚꽃 키우기 인크리멘털 아이들 — Three.js+Vite+WebGL2+셰이더",
    "category": "3D"
@@ -3362,7 +3362,7 @@
    "name": "포세이돈",
    "featured": true,
    "live": "https://sigco3111.github.io/poseidon/",
-   "screenshot": "https://github.com/sigco3111/poseidon/raw/HEAD/docs/img/sun-glitter.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/poseidon/HEAD/docs/img/sun-glitter.jpg",
    "type": "fork",
    "desc": "(시뮬) · GPU FFT 바다 한국어판 — Three.js+WebGPU",
    "category": "3D"
@@ -3372,7 +3372,7 @@
    "name": "inkField | 디지털 수묵화",
    "featured": true,
    "live": "https://sigco3111.github.io/inkField/landing.html",
-   "screenshot": "https://github.com/sigco3111/inkField/raw/HEAD/assets/recordvideo.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/inkField/HEAD/assets/recordvideo.png",
    "type": "fork",
    "desc": "(시각화) · 디지털 수묵화 회화 시스템 — WebGL+p5.js",
    "category": "웹앱"
@@ -3398,7 +3398,7 @@
    "name": "Harborlight",
    "featured": true,
    "live": "https://sigco3111.github.io/harborlight/",
-   "screenshot": "https://github.com/sigco3111/harborlight/raw/HEAD/docs/screenshots/harborlight-preview.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/harborlight/HEAD/docs/screenshots/harborlight-preview.png",
    "type": "fork",
    "desc": "(시뮬) · 손으로 짓는 미니어처 항구 마을 토이 — Three.js+Vite+TypeScript",
    "category": "3D"
@@ -3442,7 +3442,7 @@
    "name": "페리 골프 (Peri Golf)",
    "featured": true,
    "live": "https://sigco3111.github.io/peri-golf-ko/",
-   "screenshot": "https://github.com/sigco3111/peri-golf-ko/raw/HEAD/docs/screenshots/01-title.webp",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/peri-golf-ko/HEAD/docs/screenshots/01-title.webp",
    "type": "fork",
    "desc": "카파도키아 3D 미니골프 한글화 — 12개 홀 전체 한국어, 한국어/EN/TR 선택 (원본 Furkiozknn/peri-golf, MIT, Fable 5.1 제작)",
    "category": "3D"
@@ -3452,7 +3452,7 @@
    "name": "더스트폴 (Dustfall)",
    "featured": true,
    "live": "https://sigco3111.github.io/dustfall-ko/",
-   "screenshot": "https://github.com/sigco3111/dustfall-ko/raw/HEAD/docs/screenshots/01-title.webp",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/dustfall-ko/HEAD/docs/screenshots/01-title.webp",
    "type": "fork",
    "desc": "1887년 서부 오픈월드 한글화 (원본 webKing021/dustfall, Fable 5.2 제작)",
    "category": "3D"
@@ -3462,7 +3462,7 @@
    "name": "아이언베일 (Ironvale)",
    "featured": true,
    "live": "https://sigco3111.github.io/ironvale-ko/",
-   "screenshot": "https://github.com/sigco3111/ironvale-ko/raw/HEAD/docs/screenshots/01-menu.webp",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/ironvale-ko/HEAD/docs/screenshots/01-menu.webp",
    "type": "fork",
    "desc": "중세 판타지 3D 실시간 전략(RTS) 한글화 — 캠페인 3개·10개 장·종족 5개 전체 한국어, English 전환 (원본 SharpWizard/ironvale, Fable 5.2 제작)",
    "category": "3D"
@@ -3482,7 +3482,7 @@
    "name": "트라이벌 갓즈 (Tribal Gods)",
    "featured": true,
    "live": "https://sigco3111.github.io/tribal-gods-ko/",
-   "screenshot": "https://github.com/sigco3111/tribal-gods-ko/raw/HEAD/docs/hero.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/tribal-gods-ko/HEAD/docs/hero.png",
    "type": "fork",
    "desc": "작은 둥근 행성에서 부족을 키우고 주문을 쓰는 신 게임 한글화 — 캠페인 10장·편집기·주문서까지 한국어 (원본 br3nt/tribal-gods, Fable 5.2 제작)",
    "category": "3D"
@@ -3492,7 +3492,7 @@
    "name": "세븐포커2026",
    "featured": true,
    "live": "https://sigco3111.github.io/sevenpoker2026/",
-   "screenshot": "https://github.com/sigco3111/sevenpoker2026/raw/HEAD/docs/screenshots/play-start.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/sevenpoker2026/HEAD/docs/screenshots/play-start.png",
    "type": "original",
    "desc": "휴양지 소셜클럽 분위기의 한국식 세븐포커 — 자유 대국 · 스토리 3챕터 · 토너먼트 선셋 컵",
    "category": "2D게임"
@@ -3502,7 +3502,7 @@
    "name": "나이트시프트",
    "featured": true,
    "live": "https://sigco3111.github.io/nightshift-ko/",
-   "screenshot": "https://github.com/sigco3111/nightshift-ko/raw/HEAD/docs/screenshots/2-nightshift-main-menu.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/nightshift-ko/HEAD/docs/screenshots/2-nightshift-main-menu.png",
    "type": "fork",
    "desc": "비 오는 밤 고속도로 레이싱 한글화 — 한국어 기본·English 전환, 3D 도로 표지판까지 번역 (원본 EddizEge/nightshift-fable, Fable 5.2 제작, MIT)",
    "category": "3D"
@@ -3512,7 +3512,7 @@
    "name": "하베스트 스탠드오프",
    "featured": true,
    "live": "https://sigco3111.github.io/harvest-standoff-ko/",
-   "screenshot": "https://github.com/sigco3111/harvest-standoff-ko/raw/HEAD/docs/screenshots/01-menu.webp",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/harvest-standoff-ko/HEAD/docs/screenshots/01-menu.webp",
    "type": "fork",
    "desc": "농장 동물 vs 농부 5대5 1인칭 슈터 한글화 — 한국어 기본·English 전환, 영어 음성은 한국어 자막 (원본 andreteow/farm-ca, Fable 5.2 제작, 원본 라이선스 미표기)",
    "category": "3D"
@@ -3522,7 +3522,7 @@
    "name": "랜턴폴 (LANTERNFALL)",
    "featured": true,
    "live": "https://sigco3111.github.io/lanternfall-ko/",
-   "screenshot": "https://github.com/sigco3111/lanternfall-ko/raw/HEAD/screenshots/lf-gameplay-1.jpg",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/lanternfall-ko/HEAD/screenshots/lf-gameplay-1.jpg",
    "type": "fork",
    "desc": "어둠 속 황무지를 랜턴 하나로 지나는 3D 자동 전투 RPG 한글화 (원본 loktar00/lanternfall)",
    "category": "3D"
@@ -3534,7 +3534,7 @@
    "live": "https://sigco3111.github.io/crimson-loong-ko/",
    "name": "크림슨 룽",
    "repo": "crimson-loong-ko",
-   "screenshot": "https://github.com/sigco3111/crimson-loong-ko/raw/HEAD/screenshots/crimson-loong-pillar.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/crimson-loong-ko/HEAD/screenshots/crimson-loong-pillar.png",
    "type": "fork"
   },
   "41976f2e-9097-8046-85f3-cd78ce36085d": {
@@ -3544,7 +3544,7 @@
    "live": "https://sigco3111.github.io/klarbase-ko/",
    "name": "클라베이스",
    "repo": "klarbase-ko",
-   "screenshot": "https://github.com/sigco3111/klarbase-ko/raw/HEAD/screenshots/klarbase-play.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/klarbase-ko/HEAD/screenshots/klarbase-play.png",
    "type": "fork"
   },
   "41976f2e-9097-80eb-b93f-ec011ce0247d": {
@@ -3554,7 +3554,7 @@
    "live": "https://sigco3111.github.io/montanha-zero-day-ko/",
    "name": "몬타냐: 제로 데이",
    "repo": "montanha-zero-day-ko",
-   "screenshot": "https://github.com/sigco3111/montanha-zero-day-ko/raw/HEAD/screenshots/montanha-gameplay.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/montanha-zero-day-ko/HEAD/screenshots/montanha-gameplay.png",
    "type": "fork"
   },
   "41976f2e-9097-8059-8777-f1fa12bf4e33": {
@@ -3564,7 +3564,7 @@
    "live": "https://sigco3111.github.io/afterlight-ko/",
    "name": "애프터라이트",
    "repo": "afterlight-ko",
-   "screenshot": "https://github.com/sigco3111/afterlight-ko/raw/HEAD/screenshots/afterlight-title.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/afterlight-ko/HEAD/screenshots/afterlight-title.png",
    "type": "fork"
   },
   "41976f2e-9097-8096-a615-f3eeb21ab6f1": {
@@ -3574,7 +3574,7 @@
    "live": "https://sigco3111.github.io/battledrones-ko/",
    "name": "배틀 드론",
    "repo": "battledrones-ko",
-   "screenshot": "https://github.com/sigco3111/battledrones-ko/raw/HEAD/screenshots/battledrones-battle.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/battledrones-ko/HEAD/screenshots/battledrones-battle.png",
    "type": "fork"
   },
   "41976f2e-9097-8076-936d-f792a884a649": {
@@ -3584,7 +3584,7 @@
    "live": "https://sigco3111.github.io/cadle-ko/play/",
    "name": "캐들",
    "repo": "cadle-ko",
-   "screenshot": "https://github.com/sigco3111/cadle-ko/raw/HEAD/docs/screenshots/01-title.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/cadle-ko/HEAD/docs/screenshots/01-title.png",
    "type": "fork"
   },
   "41a76f2e-9097-813b-8412-cc228668da8d": {
@@ -3624,7 +3624,7 @@
    "live": "https://sigco3111.github.io/plinkfx/",
    "name": "플링크FX",
    "repo": "plinkfx",
-   "screenshot": "https://github.com/sigco3111/plinkfx/raw/HEAD/docs/media/skill.gif",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/plinkfx/HEAD/docs/media/skill.gif",
    "type": "fork"
   },
   "41976f2e-9097-8151-8da4-f43c9f4fcdce": {
@@ -3634,7 +3634,7 @@
    "live": "https://sigco3111.github.io/windhill-rpg/",
    "name": "바람 언덕의 유랑자",
    "repo": "windhill-rpg",
-   "screenshot": "https://github.com/sigco3111/windhill-rpg/raw/HEAD/docs/screenshots/1-play-desktop.png",
+   "screenshot": "https://raw.githubusercontent.com/sigco3111/windhill-rpg/HEAD/docs/screenshots/1-play-desktop.png",
    "type": "original"
   }
  },

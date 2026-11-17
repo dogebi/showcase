@@ -1,7 +1,7 @@
 # 대표 저장소 쇼케이스
 
 
-> **배포 안내** — 이 저장소는 [원본 showcase 저장소](https://github.com/sigco3111/showcase) 를
+> **배포 안내** — 이 저장소는 [원본 showcase 저장소](https://github.com/dogebi/showcase) 를
 > `dogebi` 계정으로 옮겨 GitHub Pages 에 배포한 사본입니다. 콘텐츠·디자인 원저작자는 원본 저장소에 있습니다.
 > 배포 주소: https://dogebi.github.io/showcase/
 
@@ -54,7 +54,7 @@ GitHub에 흩어져 있는 공개 프로젝트들을 한 페이지에 모은 쇼
 정적 파일 하나뿐이라 별도 설치가 없습니다.
 
 ```bash
-git clone https://github.com/sigco3111/showcase.git
+git clone https://github.com/dogebi/showcase.git
 cd showcase
 # 브라우저로 index.html을 열거나, 임의의 정적 서버 사용
 python3 -m http.server 8000
@@ -64,4 +64,4 @@ python3 -m http.server 8000
 
 - 이 저장소에는 별도의 라이선스 파일이 없습니다.
 - 각 프로젝트 카드의 썸네일과 설명은 해당 저장소에서 가져온 것으로, 포크·한글화 프로젝트의 원작자와 라이선스는 각 카드 설명에 표기되어 있습니다.
-- 쇼케이스 제작·동기화는 [Instinct](https://github.com/sigco3111) 개인 에이전트의 도움으로 운영됩니다.
+- 쇼케이스 제작·동기화는 [Instinct](https://github.com/dogebi) 개인 에이전트의 도움으로 운영됩니다.
