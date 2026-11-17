@@ -156,6 +156,13 @@ def run_phase(phase: str, names: list[str]) -> None:
     log(f"[{phase}] 완료")
 
 
+def _limit(names: list[str]) -> list[str]:
+    for i, a in enumerate(sys.argv):
+        if a == "--limit" and i + 1 < len(sys.argv):
+            return names[: int(sys.argv[i + 1])]
+    return names
+
+
 def main() -> None:
     cmd = sys.argv[1] if len(sys.argv) > 1 else "all"
     names = repo_list()
@@ -165,7 +172,7 @@ def main() -> None:
         return
     phases = ["fork", "pages", "verify"] if cmd == "all" else [cmd]
     for ph in phases:
-        run_phase(ph, names)
+        run_phase(ph, _limit(names))
     st = load_state()
     recs = st["repos"]
     from collections import Counter

@@ -348,7 +348,7 @@
    "repo": "Backroom-Escape",
    "name": "백룸 이스케이프",
    "featured": true,
-   "live": "https://sigco3111.github.io/Backroom-Escape/",
+   "live": "https://dogebi.github.io/Backroom-Escape/",
    "screenshot": "https://raw.githubusercontent.com/sigco3111/Backroom-Escape/HEAD/5-Backroom-Escape.jpg",
    "type": "fork",
    "desc": "(공포) Backroom Escape 한국어판 - 3D 미로 탈출 게임 한글화 (원작: StarKnightt/Backroom-Escape)",
@@ -1173,7 +1173,7 @@
    "repo": "AroundTheWorld",
    "name": "어라운드 더 월드",
    "featured": false,
-   "live": "https://sigco3111.github.io/AroundTheWorld/",
+   "live": "https://dogebi.github.io/AroundTheWorld/",
    "desc": "(액션) · 작은 행성에서 운석을 피하고 코인을 모으는 3D 러너 — Three.js+cannon-es+TS+Webpack",
    "category": "3D"
   },
@@ -1807,7 +1807,7 @@
    "repo": "3d-matrix-rain",
    "name": "3D Matrix Rain — 영화 *매트릭스*의 디지털 비를 3차원으로 재해석한 인터랙티브 타이포그래피 아트",
    "featured": false,
-   "live": "https://sigco3111.github.io/3d-matrix-rain/",
+   "live": "https://dogebi.github.io/3d-matrix-rain/",
    "desc": "· [코드깎는노인-코딩미션] 3D 매트릭스 레인 (3D Matrix Rain)",
    "category": "실험"
   },
@@ -2581,7 +2581,7 @@
    "repo": "3d-fractal",
    "name": "AI 기반 3D 프랙탈 아트 생성기",
    "featured": false,
-   "live": "https://sigco3111.github.io/3d-fractal/",
+   "live": "https://dogebi.github.io/3d-fractal/",
    "desc": "(생성기) · AI 기반 3D 프랙탈 아트 생성기",
    "category": "3D"
   },
@@ -2597,7 +2597,7 @@
    "repo": "2048",
    "name": "2048 게임",
    "featured": false,
-   "live": "https://sigco3111.github.io/2048/",
+   "live": "https://dogebi.github.io/2048/",
    "desc": "(퍼즐) · 클래식 2048 퍼즐 게임",
    "category": "2D게임"
   },
@@ -2653,7 +2653,7 @@
    "repo": "3d-block-world-edit",
    "name": "3D 블록 월드 편집기",
    "featured": false,
-   "live": "https://sigco3111.github.io/3d-block-world-edit/",
+   "live": "https://dogebi.github.io/3d-block-world-edit/",
    "desc": "· 3D 블록 월드 편집기",
    "category": "실험"
   },
@@ -2989,7 +2989,7 @@
    "repo": "3d-physics-lab",
    "name": "3D 물리 실험실",
    "featured": false,
-   "live": "https://sigco3111.github.io/3d-physics-lab/",
+   "live": "https://dogebi.github.io/3d-physics-lab/",
    "desc": "(시뮬) · 3D 물리 시뮬레이션 실험실",
    "category": "3D"
   },
