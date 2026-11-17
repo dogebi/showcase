@@ -54,7 +54,7 @@
    "repo": "return-investor",
    "name": "리턴: 회귀 투자자",
    "featured": true,
-   "live": "https://sigco3111.github.io/return-investor/",
+   "live": "https://dogebi.github.io/return-investor/",
    "desc": "회귀·진로·투자 선택을 다루는 비주얼 노벨형 투자 게임",
    "category": "2D게임",
    "screenshot": "https://raw.githubusercontent.com/sigco3111/return-investor/HEAD/2-readme-shot-start-20261116.png",
@@ -120,7 +120,7 @@
    "repo": "cokacmotion",
    "name": "cokacmotion",
    "featured": false,
-   "live": "https://sigco3111.github.io/cokacmotion/",
+   "live": "https://dogebi.github.io/cokacmotion/",
    "desc": "(데모 모음) 웹 그래픽 영상 표현 기법 166편 데모 모음 - 기법별 구현 노트·소스·스틸을 갖춘 Claude Code 스킬(aimotion) (원작: kstost/cokacmotion, MIT)",
    "category": "시각화"
   },
@@ -407,7 +407,7 @@
    "name": "패권의 시간 — 배포 저장소",
    "featured": false,
    "live": "https://sigco3111.github.io/hegemony-war-pages/",
-   "desc": "패권의 시간 — GitHub Pages 배포 저장소. 실게임 저장소: https://github.com/dogebi/hegemony-war",
+   "desc": "패권의 시간 — GitHub Pages 배포 저장소. 실게임 저장소: https://github.com/sigco3111/hegemony-war",
    "category": "2D게임"
   },
   "40076f2e-9097-818a-b09b-e5db48fa62c4": {
@@ -3471,7 +3471,7 @@
    "repo": "showcase",
    "name": "대표 저장소 쇼케이스",
    "featured": false,
-   "live": "https://sigco3111.github.io/showcase/",
+   "live": "https://dogebi.github.io/showcase/",
    "screenshot": null,
    "type": "original",
    "desc": "대표 프로젝트 쇼케이스 갤러리 - Notion DB 원본 일일 자동 동기화, 검색·필터·정렬, GitHub Pages 단일 정적 페이지",

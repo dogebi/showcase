@@ -30,7 +30,7 @@ GitHub에 흩어져 있는 공개 프로젝트들을 한 페이지에 모은 쇼
 
 ## 사용법
 
-1. [쇼케이스 페이지](https://sigco3111.github.io/showcase/)에 접속합니다.
+1. [쇼케이스 페이지](https://dogebi.github.io/showcase/)에 접속합니다.
 2. 상단 검색창에 키워드를 입력하거나, `원작 / 포크·한글화` 버튼과 카테고리 칩으로 목록을 좁힙니다.
 3. `정렬` 드롭다운에서 날짜순 · 가나다순 · 추천순을 선택합니다.
 4. 카드의 **라이브 데모** 링크로 바로 실행해 보거나, **저장소** 링크로 코드를 확인합니다. (모든 링크는 새 탭으로 열립니다.)
@@ -54,7 +54,7 @@ GitHub에 흩어져 있는 공개 프로젝트들을 한 페이지에 모은 쇼
 정적 파일 하나뿐이라 별도 설치가 없습니다.
 
 ```bash
-git clone https://github.com/dogebi/showcase.git
+git clone https://github.com/sigco3111/showcase.git
 cd showcase
 # 브라우저로 index.html을 열거나, 임의의 정적 서버 사용
 python3 -m http.server 8000
