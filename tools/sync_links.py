@@ -50,18 +50,25 @@ def dogebi_repos() -> set[str]:
 
 
 def pages_built(repos: set[str]) -> set[str]:
-    """dogebi/<r> 의 Pages 가 built 인 저장소. API 결과를 캐시한다."""
+    """dogebi/<r> 의 Pages 가 built 인 저장소. API 결과를 캐시한다.
+
+    ⚠ 'built' 가 아닌 값은 캐시하지 않는다 — 'none' 을 영구 캐시하면 나중에 Pages 를 켠 저장소가
+    영원히 미빌드로 남아 라이브 링크가 원본에 붙박인다(실제로 그렇게 굳었다).
+    """
     from concurrent.futures import ThreadPoolExecutor
     cache_path = "/tmp/pages_built.json"
     cache = json.load(open(cache_path)) if os.path.exists(cache_path) else {}
-    todo = [r for r in sorted(repos) if r not in cache]
+    todo = [r for r in sorted(repos) if cache.get(r) not in ("built", "building")]
     if todo:
         def probe(r: str) -> tuple[str, str]:
             st2 = gh_jq(f"repos/{DST}/{r}/pages", ".status")
             return r, (st2 or "none")
         with ThreadPoolExecutor(max_workers=6) as ex:
             for r, st2 in ex.map(probe, todo):
-                cache[r] = st2
+                if st2 in ("built", "building"):
+                    cache[r] = st2
+                else:
+                    cache.pop(r, None)
         json.dump(cache, open(cache_path, "w"))
     return {r for r in repos if cache.get(r) in ("built", "building")}
 

@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
 """showcase 카드의 저장소를 dogebi 계정으로 fork 하고 Pages 를 켠다.
 
-- 대상: index.html 에서 https://github.com/dogebi/<repo> 로 참조되는 저장소 전체
-- 각 단계는 재개 가능 (/tmp/mirror_state.json)
+- 대상: sync-state.json 의 전체 프로젝트 + index.html 의 원본(sigco3111) 참조
+  (index.html 의 dogebi 참조만 읽으면 '이미 미러된 것'만 대상이 되는 순환 논리가 된다)
+- 각 단계는 재개 가능 (/tmp/mirror_state.json) — fork 완료 여부는 항상 GitHub 실상태로 재확인한다
 - 사용법:
     python3 tools/mirror_to_dogebi.py list      # 대상 출력
-    python3 tools/mirror_to_dogebi.py fork      # fork (병렬)
+    python3 tools/mirror_to_dogebi.py fork      # fork (순차, 적응형 간격)
     python3 tools/mirror_to_dogebi.py pages     # 원본 Pages 설정 복제 + 활성화
     python3 tools/mirror_to_dogebi.py verify    # 빌드 상태 확인
     python3 tools/mirror_to_dogebi.py all       # fork → pages → verify
+- 환경변수: FORK_GAP (기본 8초) — 최소 간격. 403 이 뜨면 자동으로 2배씩 늘린다(최대 120초).
 """
 from __future__ import annotations
 
@@ -19,15 +21,18 @@ import subprocess
 import sys
 import threading
 import time
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from collections import Counter
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STATE_PATH = "/tmp/mirror_state.json"
 SRC = "sigco3111"
 DST = "dogebi"
 WORKERS = 1
-FORK_DELAY = 40.0       # GitHub 은 fork 생성을 강하게 제한한다(403 'too quickly') → 40초 간격
+FORK_GAP = float(os.environ.get("FORK_GAP", "8"))
+MAX_GAP = 120.0
 _lock = threading.Lock()
+_STOP = threading.Event()          # 하드 블록(콘텐츠 생성 차단) 감지 시 이번 배치만 중단
+_gap = [FORK_GAP]
 
 
 def load_state() -> dict:
@@ -44,6 +49,24 @@ def save_state(st: dict) -> None:
     os.replace(tmp, STATE_PATH)
 
 
+def log(msg: str) -> None:
+    with _lock:
+        print(f"{time.strftime('%H:%M:%S')} {msg}", flush=True)
+
+
+def current_gap() -> float:
+    with _lock:
+        return _gap[0]
+
+
+def bump_gap(reason: str) -> float:
+    with _lock:
+        _gap[0] = min(_gap[0] * 2, MAX_GAP)
+        g = _gap[0]
+    log(f"레이트리밋 신호({reason[:40]}) → fork 간격 {g:.0f}s")
+    return g
+
+
 def gh(args: list[str], retries: int = 3) -> tuple[bool, str]:
     """gh api 호출. (ok, stdout|error)"""
     env = dict(os.environ)
@@ -55,8 +78,12 @@ def gh(args: list[str], retries: int = 3) -> tuple[bool, str]:
             return True, p.stdout
         err = (p.stderr or "").strip()
         low = err.lower()
-        if "too quickly" in low or "secondary rate" in low:
-            time.sleep(110)                        # fork 폭주 제한 → 길게 쉬고 다음 repo 로
+        if "too quickly" in low or "secondary rate" in low or "abuse" in low \
+                or "content creation" in low:
+            g = bump_gap(err)
+            if "content creation" in low:
+                _STOP.set()            # 이 상태에서는 fork·repo 생성이 전부 403 → 다음 배치로
+            time.sleep(min(g * 2, 120.0))
             continue
         if "rate limit" in low or " 403" in low or " 429" in low or "abuse" in low:
             time.sleep(30 * (attempt + 1))
@@ -66,13 +93,25 @@ def gh(args: list[str], retries: int = 3) -> tuple[bool, str]:
 
 
 def repo_list() -> list[str]:
-    """index.html 참조 저장소 전체. 대표 카드(featured)를 앞에 둔다."""
-    import json as _json
+    """미러 대상 저장소 전체. 대표 카드(featured)를 앞에 둔다."""
+    from collections import OrderedDict
+
+    st_path = os.path.join(ROOT, "sync-state.json")
+    names: "OrderedDict[str, None]" = OrderedDict()
+    if os.path.exists(st_path):
+        st = json.load(open(st_path, encoding="utf-8"))
+        for rec in st.get("entries", {}).values():
+            r = rec.get("repo")
+            if r:
+                names[r] = None
     html = open(os.path.join(ROOT, "index.html"), encoding="utf-8").read()
-    allr = sorted(set(re.findall(r"https://github\.com/dogebi/([A-Za-z0-9._-]+)", html)))
+    for r in re.findall(r"https://github\.com/(?:sigco3111|dogebi)/([A-Za-z0-9._-]+)", html):
+        names[r] = None
+
+    allr = sorted(names)
     feat_path = "/tmp/featured_repos.json"
-    feat = _json.load(open(feat_path)) if os.path.exists(feat_path) else []
-    head = [r for r in feat if r in allr]
+    feat = json.load(open(feat_path)) if os.path.exists(feat_path) else []
+    head = [r for r in feat if r in names]
     return head + [r for r in allr if r not in head]
 
 
@@ -81,24 +120,17 @@ def exists(owner: str, name: str) -> bool:
     return ok
 
 
-def log(msg: str) -> None:
-    with _lock:
-        line = f"{time.strftime('%H:%M:%S')} {msg}"
-        print(line, flush=True)
-
-
 def do_fork(name: str, st: dict) -> str:
     if exists(DST, name):
         return "exists"
     ok, out = gh([f"repos/{SRC}/{name}", "--jq", ".name"])
     if not ok:
         return "source-missing"
-    time.sleep(FORK_DELAY)
+    time.sleep(current_gap())
     ok, err = gh(["-X", "POST", f"repos/{SRC}/{name}/forks", "--jq", ".full_name"])
     if not ok:
         return f"fork-fail:{err[:60]}"
-    # fork 생성 완료 대기
-    for _ in range(30):
+    for _ in range(15):
         if exists(DST, name):
             return "forked"
         time.sleep(4)
@@ -124,6 +156,9 @@ def do_verify(name: str, st: dict) -> str:
     return out.strip() if ok else "no-pages"
 
 
+PHASES = {"fork": do_fork, "pages": do_pages, "verify": do_verify}
+
+
 def run_phase(phase: str, names: list[str]) -> None:
     st = load_state()
     st.setdefault("repos", {})
@@ -137,21 +172,20 @@ def run_phase(phase: str, names: list[str]) -> None:
         if phase == "verify" and rec.get("status") in ("built", "no-pages"):
             continue
         todo.append(n)
-    log(f"[{phase}] 대상 {len(todo)} / 전체 {len(names)}")
-    done = 0
-    with ThreadPoolExecutor(max_workers=WORKERS) as ex:
-        futs = {ex.submit({"fork": do_fork, "pages": do_pages, "verify": do_verify}[phase], n, st): n for n in todo}
-        for fut in as_completed(futs):
-            n = futs[fut]
-            try:
-                res = fut.result()
-            except Exception as e:                      # noqa: BLE001
-                res = f"error:{type(e).__name__}"
-            with _lock:
-                st["repos"].setdefault(n, {})[phase if phase != "verify" else "status"] = res
-                done += 1
-                save_state(st)
-            log(f"[{phase}] {n} → {res}")
+    log(f"[{phase}] 대상 {len(todo)} / 전체 {len(names)} (gap {current_gap():.0f}s)")
+    fn = PHASES[phase]
+    for i, n in enumerate(todo, 1):
+        if _STOP.is_set():
+            log(f"[{phase}] 하드 블록 감지 → {len(todo) - i + 1}건은 다음 배치로 이월")
+            break
+        try:
+            res = fn(n, st)
+        except Exception as e:                      # noqa: BLE001
+            res = f"error:{type(e).__name__}"
+        with _lock:
+            st["repos"].setdefault(n, {})[phase if phase != "verify" else "status"] = res
+            save_state(st)
+        log(f"[{phase}] {i}/{len(todo)} {n} → {res}")
     save_state(st)
     log(f"[{phase}] 완료")
 
@@ -175,7 +209,6 @@ def main() -> None:
         run_phase(ph, _limit(names))
     st = load_state()
     recs = st["repos"]
-    from collections import Counter
     for key in ("fork", "pages", "status"):
         c = Counter(r.get(key) for r in recs.values())
         if any(k for k in c if k):
