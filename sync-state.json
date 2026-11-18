@@ -777,7 +777,7 @@
    "repo": "HandCastAbilityThreeJS",
    "name": "엘리멘탈 샌드박스",
    "featured": false,
-   "live": "https://sigco3111.github.io/HandCastAbilityThreeJS/",
+   "live": "https://dogebi.github.io/HandCastAbilityThreeJS/",
    "desc": "(액션) · 손동작으로 쏘는 원소 능력 VFX 샌드박스 — Three.js+Vite+GLSL",
    "category": "3D"
   },
@@ -809,7 +809,7 @@
    "repo": "LinearAbilityExtThreeJS",
    "name": "원소 샌드박스 — 어빌리티 확장 한글판",
    "featured": false,
-   "live": "https://sigco3111.github.io/LinearAbilityExtThreeJS/",
+   "live": "https://dogebi.github.io/LinearAbilityExtThreeJS/",
    "desc": "(시뮬) · Three.js 원소 샌드박스 — 화염·크라켄·전기·대지·관문·고리·차원의문 7개 시전 + 3개 자기강화 — Vite+FBX+GLSL 절차적 VFX",
    "category": "3D"
   },
@@ -2693,7 +2693,7 @@
    "repo": "Idle_RPG",
    "name": "방치형 모험가 노트",
    "featured": false,
-   "live": "https://sigco3111.github.io/Idle_RPG/",
+   "live": "https://dogebi.github.io/Idle_RPG/",
    "desc": "(RPG) · 방치형 던전 RPG 게임",
    "category": "2D게임"
   },
@@ -2901,7 +2901,7 @@
    "repo": "FootballClub",
    "name": "축구 클럽 매니저",
    "featured": false,
-   "live": "https://sigco3111.github.io/FootballClub/",
+   "live": "https://dogebi.github.io/FootballClub/",
    "desc": "(시뮬) · 축구 클럽 경영 시뮬레이션 게임",
    "category": "2D게임"
   },
@@ -2925,7 +2925,7 @@
    "repo": "Kingdoms3Lite",
    "name": "삼국지 Lite",
    "featured": false,
-   "live": "https://sigco3111.github.io/Kingdoms3Lite/",
+   "live": "https://dogebi.github.io/Kingdoms3Lite/",
    "desc": "(전략) · 삼국지 턴제 전략 게임",
    "category": "2D게임"
   },
@@ -3181,7 +3181,7 @@
    "repo": "GeometryPainterThreeJS-korea",
    "name": "지오메트리 페인터",
    "featured": false,
-   "live": "https://sigco3111.github.io/GeometryPainterThreeJS-korea/",
+   "live": "https://dogebi.github.io/GeometryPainterThreeJS-korea/",
    "desc": "(에디터) · 검은 광택 구체 위에 브러시를 드래그하면, 결정·용암·오로라·산호가 살아 움직입니다. 브라우저에서 바로 실행되는 WebGPU 3D 페인터",
    "category": "3D"
   },
@@ -3301,7 +3301,7 @@
    "repo": "Lightning-VFX",
    "name": "번개 VFX — Three.js 데모",
    "featured": false,
-   "live": "https://sigco3111.github.io/Lightning-VFX/",
+   "live": "https://dogebi.github.io/Lightning-VFX/",
    "desc": "(시각화) · 절차적 번개 VFX 인터랙티브 데모 — Three.js+GLSL+lil-gui+Vite",
    "category": "3D"
   },
