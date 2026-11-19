@@ -2,13 +2,17 @@
 # showcase 저장소 미러 배치 (크론 30분용)
 #   fork 는 GitHub 2차 레이트리밋이 강하다 → 시간예산 러너가 조금씩 진행하고,
 #   이 스크립트가 이어서 링크 정렬 → 커밋·푸시까지 마무리한다.
-# 사용법: tools/mirror_batch.sh [분]   (기본 22분)
+# 사용법: tools/mirror_batch.sh [분]   (기본 12분)
 set -uo pipefail
 cd "$(dirname "$0")/.."
 
 export PATH="/home/nttcom/.local/bin:/usr/local/bin:/usr/bin:/bin:$PATH"   # 크론은 gh 를 못 찾는다
 MIN="${1:-12}"
 LOG=/tmp/mirror_batch.log
+# 동시 실행 방지 (Hermes 크론과 수동 실행이 겹치면 같은 저장소를 두 번 포크해 403 만 늘어난다)
+exec 9>/tmp/mirror_batch.lock
+flock -n 9 || { echo "$(date '+%F %T') 이미 실행 중 — skip"; exit 0; }
+
 exec >>"$LOG" 2>&1
 echo "=== $(date '+%F %T') batch start (minutes=$MIN) ==="
 
