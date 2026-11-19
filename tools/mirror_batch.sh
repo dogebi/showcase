@@ -6,7 +6,8 @@
 set -uo pipefail
 cd "$(dirname "$0")/.."
 
-MIN="${1:-22}"
+export PATH="/home/nttcom/.local/bin:/usr/local/bin:/usr/bin:/bin:$PATH"   # 크론은 gh 를 못 찾는다
+MIN="${1:-12}"
 LOG=/tmp/mirror_batch.log
 exec >>"$LOG" 2>&1
 echo "=== $(date '+%F %T') batch start (minutes=$MIN) ==="
@@ -20,7 +21,7 @@ python3 tools/mirror_sweep.py --minutes "$MIN"
 RC=$?
 echo "runner rc=$RC"
 
-python3 tools/sync_links.py
+python3 tools/relink.py
 
 if ! git diff --quiet -- index.html sync-state.json README.md; then
   D=$(python3 -c "
