@@ -86,7 +86,15 @@ def targets() -> list[str]:
         names[r] = None
     allr = sorted(names)
     feat_path = "/tmp/featured_repos.json"
-    feat = json.load(open(feat_path)) if os.path.exists(feat_path) else []
+    local_feat = os.path.join(ROOT, "tools", "featured_repos.json")
+    feat = []
+    for p in (feat_path, local_feat):
+        if os.path.exists(p):
+            try:
+                feat = json.load(open(p))
+                break
+            except Exception:                    # noqa: BLE001
+                feat = []
     head = [r for r in feat if r in names]
     return head + [r for r in allr if r not in head]
 
