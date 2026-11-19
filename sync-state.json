@@ -1573,7 +1573,7 @@
    "repo": "hermes-control-room",
    "name": "헤르메스 컨트롤 룸",
    "featured": false,
-   "live": "https://sigco3111.github.io/hermes-control-room/",
+   "live": "https://dogebi.github.io/hermes-control-room/",
    "desc": "(자동화) · W17ant/Claude-Office 포크 · 헤르메스 자동화 시스템 시각화 · SIM/LIVE 토글 · 한글 UI",
    "category": "시각화"
   },
@@ -1631,7 +1631,7 @@
    "repo": "mingmo-game-korea",
    "name": "명말 · 협객행 —— 갑신 1644 (한국어판)",
    "featured": false,
-   "live": "https://sigco3111.github.io/mingmo-game-korea/",
+   "live": "https://dogebi.github.io/mingmo-game-korea/",
    "desc": "(액션) · 명말·협객행 갑신1644 — 순수 Canvas/JS 오픈월드 무협 게임 한국어화 버전",
    "category": null
   },
@@ -1655,7 +1655,7 @@
    "repo": "blog",
    "name": "Jekyll 블로그 관리 시스템",
    "featured": false,
-   "live": "https://sigco3111.github.io/blog/",
+   "live": "https://dogebi.github.io/blog/",
    "desc": "· Jekyll 기반 블로그 관리 시스템",
    "category": "웹앱"
   },
