@@ -46,7 +46,7 @@
    "repo": "qingyun-sword-flight-ko",
    "name": "청운종 검 비행",
    "featured": false,
-   "live": "https://dogebi.github.io/qingyun-sword-flight-ko/",
+   "live": "https://sigco3111.github.io/qingyun-sword-flight-ko/",
    "desc": "청운종(青雲宗) : 검을 타고 하늘을 날며 영기를 모으는 3D 비행 게임 한글화 (원작 hahaliu1029/fable5.2demo, Apache-2.0)",
    "category": "3D"
   },
@@ -388,7 +388,7 @@
    "repo": "veilspire",
    "name": "베일스파이어",
    "featured": false,
-   "live": "https://dogebi.github.io/veilspire/",
+   "live": "https://sigco3111.github.io/veilspire/",
    "desc": "(RPG) 베일스파이어 한국어판 - Three.js 오픈월드 마법 액션 RPG 한글화 (원작: Lunaneco/veilspire)",
    "category": "3D"
   },
@@ -406,7 +406,7 @@
    "repo": "hegemony-war-pages",
    "name": "패권의 시간 — 배포 저장소",
    "featured": false,
-   "live": "https://dogebi.github.io/hegemony-war-pages/",
+   "live": "https://sigco3111.github.io/hegemony-war-pages/",
    "desc": "패권의 시간 — GitHub Pages 배포 저장소. 실게임 저장소: https://github.com/dogebi/hegemony-war",
    "category": "2D게임"
   },
@@ -414,7 +414,7 @@
    "repo": "hegemony-war",
    "name": "패권의 시간",
    "featured": true,
-   "live": "https://dogebi.github.io/hegemony-war-pages/",
+   "live": "https://sigco3111.github.io/hegemony-war-pages/",
    "screenshot": "https://raw.githubusercontent.com/sigco3111/hegemony-war/HEAD/docs/screenshots/game.webp",
    "type": "fork",
    "desc": "(전략) 패권의 시간 — OpenFront 싱글 플레이 개선판",
@@ -464,7 +464,7 @@
    "repo": "instinct-usage-dashboard",
    "name": "Instinct 사용량 대시보드",
    "featured": false,
-   "live": "https://dogebi.github.io/instinct-usage-dashboard/",
+   "live": "https://sigco3111.github.io/instinct-usage-dashboard/",
    "desc": "(시각화) Instinct 일일 사용량 대시보드 - GitHub Actions로 data/usage.json 기반 정적 빌드",
    "category": "웹앱"
   },
@@ -539,7 +539,7 @@
    "repo": "instinct-nexus",
    "name": "INSTINCT NEXUS",
    "featured": false,
-   "live": "https://dogebi.github.io/instinct-nexus/",
+   "live": "https://sigco3111.github.io/instinct-nexus/",
    "desc": "(웹사이트) INSTINCT NEXUS - GPU 파티클이 INSTINCT로 모핑되는 인터랙티브 웹사이트",
    "category": "3D"
   },
@@ -557,7 +557,7 @@
    "repo": "mecha-world",
    "name": "MECHA WORLD",
    "featured": false,
-   "live": "https://dogebi.github.io/mecha-world/?v=static",
+   "live": "https://sigco3111.github.io/mecha-world/?v=static",
    "desc": "(RPG) React Three Fiber 기반 3D 메카 액션 게임을 한국어로 번역했습니다. 오픈월드 탐험, 근접·원거리 전투, 장비, 퀘스트, 메카 선택과 뽑기를 브라우저에서 체험할 수 있습니다.",
    "category": "3D"
   },
@@ -565,7 +565,7 @@
    "repo": "dark-strands",
    "name": "DARK STRANDS",
    "featured": false,
-   "live": "https://dogebi.github.io/dark-strands/?v=6",
+   "live": "https://sigco3111.github.io/dark-strands/?v=6",
    "desc": "(샌드박스) VictorZakharov의 Babylon.js 9 기반 3D 탐험·렌더링 데모를 한국어로 번역했습니다. 점수나 승리 조건 없이 마을, 숲, 물, 날씨와 물리 상호작용을 살펴보는 샌드박스",
    "category": "3D"
   },
@@ -573,7 +573,7 @@
    "repo": "island",
    "name": "MODEL ISLAND",
    "featured": false,
-   "live": "https://dogebi.github.io/island/",
+   "live": "https://sigco3111.github.io/island/",
    "desc": "마우스로 섬의 지형을 빚고 집·등대·나무·풍력 터빈 등으로 꾸미는 3D 샌드박스",
    "category": "3D"
   },
@@ -601,7 +601,7 @@
    "repo": "three-descent",
    "name": "디센트",
    "featured": false,
-   "live": "https://dogebi.github.io/three-descent/",
+   "live": "https://sigco3111.github.io/three-descent/",
    "desc": "(슈팅) 디센트 - 광산 안을 자유롭게 비행하며 로봇과 싸우고 인질을 구출하는 6자유도 브라우저 슈팅. (원작: mrdoob/three-descent)",
    "category": "3D"
   },
@@ -629,7 +629,7 @@
    "repo": "jungle-trail",
    "name": "정글 트레일",
    "featured": false,
-   "live": "https://dogebi.github.io/jungle-trail/",
+   "live": "https://sigco3111.github.io/jungle-trail/",
    "desc": "정글 트레일 한국어판 - Three.js로 구현한 절차적 정글 1인칭 탐험. 모든 텍스처·메시·사운드를 코드로 생성합니다.",
    "category": "3D"
   },
@@ -637,7 +637,7 @@
    "repo": "moon-gardener",
    "name": "달의 정원사",
    "featured": false,
-   "live": "https://dogebi.github.io/moon-gardener/",
+   "live": "https://sigco3111.github.io/moon-gardener/",
    "desc": "(클릭커) 달의 정원사 - 복셀 3D 달빛 정원 힐링 방치형 클리커 게임 (식물 36종, 달 주기 이벤트, 연금술, 환생)",
    "category": "3D"
   },
@@ -653,7 +653,7 @@
    "repo": "claw3d",
    "name": "3D 인형뽑기",
    "featured": false,
-   "live": "https://dogebi.github.io/claw3d/",
+   "live": "https://sigco3111.github.io/claw3d/",
    "desc": "(아케이드) React · Three.js · Rapier 물리엔진으로 만든 3D 인형뽑기 게임 한국어판",
    "category": "3D"
   },
@@ -701,7 +701,7 @@
    "repo": "edusim",
    "name": "에듀심",
    "featured": false,
-   "live": "https://dogebi.github.io/edusim/",
+   "live": "https://sigco3111.github.io/edusim/",
    "desc": "(시각화) · 200개 이상 인체 구조물 인터랙티브 3D 해부 아틀라스 — Three.js+WebGL+GLTF/DRACO",
    "category": "3D"
   },
@@ -719,7 +719,7 @@
    "repo": "off-road",
    "name": "오프 로드",
    "featured": false,
-   "live": "https://dogebi.github.io/off-road/",
+   "live": "https://sigco3111.github.io/off-road/",
    "desc": "(시뮬) · 3D 오프로드 물류 시뮬레이션 — Three.js+Rapier3D+Vite",
    "category": "3D"
   },
@@ -727,7 +727,7 @@
    "repo": "threejs-conference",
    "name": "Threejs-Punk",
    "featured": false,
-   "live": "https://dogebi.github.io/threejs-conference/",
+   "live": "https://sigco3111.github.io/threejs-conference/",
    "desc": "(시뮬) · 빗속 사이버펑크 골목 산책 — Three.js+WebGPU+TSL",
    "category": "3D"
   },
@@ -735,7 +735,7 @@
    "repo": "transformer-explainer",
    "name": "트랜스포머 익스플레이너",
    "featured": false,
-   "live": "https://dogebi.github.io/transformer-explainer/",
+   "live": "https://sigco3111.github.io/transformer-explainer/",
    "desc": "(시각화) · 트랜스포머를 브라우저에서 인터랙티브 학습 — SvelteKit+ONNX",
    "category": "시각화"
   },
@@ -743,7 +743,7 @@
    "repo": "rotten-souls",
    "name": "썩은 영혼들",
    "featured": false,
-   "live": "https://dogebi.github.io/rotten-souls/",
+   "live": "https://sigco3111.github.io/rotten-souls/",
    "desc": "고딕 분위기 소울라이크. 원본: igorjohn/rotten-souls 한국어 풀트랜슬레이션 + gh-pages 배포",
    "category": "3D"
   },
@@ -751,7 +751,7 @@
    "repo": "pacanele",
    "name": "슬롯머신 — 마지막 한 번",
    "featured": false,
-   "live": "https://dogebi.github.io/pacanele/",
+   "live": "https://sigco3111.github.io/pacanele/",
    "desc": "(시뮬) · 3D 슬롯머신 시뮬레이터 — Three.js. 원본 danmana/pacanele의 한글화 버전. 게임장은 사라졌지만 노브는 남겨뒀습니다. 가상의 크레딧으로 즐기는, 진짜 돈은 없는 한 번의 회전.",
    "category": "3D"
   },
@@ -759,7 +759,7 @@
    "repo": "stick-steel",
    "name": "스틱 & 스틸",
    "featured": false,
-   "live": "https://dogebi.github.io/stick-steel/",
+   "live": "https://sigco3111.github.io/stick-steel/",
    "desc": "(액션) 스틱&스틸 한글화",
    "category": "3D"
   },
@@ -793,7 +793,7 @@
    "repo": "auto-janggi",
    "name": "초 vs 한 AI 장기 시뮬레이션",
    "featured": false,
-   "live": "https://dogebi.github.io/auto-janggi/",
+   "live": "https://sigco3111.github.io/auto-janggi/",
    "desc": "(전략) · 한국어 장기 AI 대국 시뮬 — 순수 JS 단일 HTML",
    "category": "2D게임"
   },
@@ -827,7 +827,7 @@
    "repo": "auto-chess",
    "name": "백 vs 흑 AI 체스 시뮬레이션",
    "featured": false,
-   "live": "https://dogebi.github.io/auto-chess/",
+   "live": "https://sigco3111.github.io/auto-chess/",
    "desc": "(전략) · 한국어 풀 체스 AI 대국 — 순수 JS 단일 HTML",
    "category": "2D게임"
   },
@@ -845,7 +845,7 @@
    "repo": "vibe-coding-ui-glossary",
    "name": "바이브코딩 앱 UI 용어 정리본",
    "featured": false,
-   "live": "https://dogebi.github.io/vibe-coding-ui-glossary/",
+   "live": "https://sigco3111.github.io/vibe-coding-ui-glossary/",
    "desc": "쥬하(@juuouse) 님의 '바이브코딩 앱 UI 용어 정리본' Notion 페이지를 GitHub Pages로 옮긴 미러.",
    "category": "웹앱"
   },
@@ -873,7 +873,7 @@
    "repo": "self-balance-lab",
    "name": "셀프밸런스 랩",
    "featured": false,
-   "live": "https://dogebi.github.io/self-balance-lab/",
+   "live": "https://sigco3111.github.io/self-balance-lab/",
    "desc": "(시뮬) · 브라우저에서 진짜로 동작하는 전자공작 작업대 — Three.js+Rapier+WebGL2+WebAssembly",
    "category": "3D"
   },
@@ -899,7 +899,7 @@
    "repo": "voidbound-choir-of-ash",
    "name": "보이드바운드 — 잿빛의 성가대",
    "featured": false,
-   "live": "https://dogebi.github.io/voidbound-choir-of-ash/",
+   "live": "https://sigco3111.github.io/voidbound-choir-of-ash/",
    "desc": "(액션) · 분위기 호러 한글판 — Three.js+GLSL+절차적 오디오",
    "category": "3D"
   },
@@ -947,7 +947,7 @@
    "repo": "gemini-studio",
    "name": "제미나이 스튜디오",
    "featured": false,
-   "live": "https://dogebi.github.io/gemini-studio/",
+   "live": "https://sigco3111.github.io/gemini-studio/",
    "desc": "· Gemini3.0과 Antigravity로 제작한 몰입형 웹 실험 모음 — HTML+JavaScript+Three.js",
    "category": "시각화"
   },
@@ -965,7 +965,7 @@
    "repo": "gemini_experience",
    "name": "Gemini 3.0 경험 — 안티그래비티",
    "featured": false,
-   "live": "https://dogebi.github.io/gemini_experience/",
+   "live": "https://sigco3111.github.io/gemini_experience/",
    "desc": "· 몰입형 WebGL 웹 실험과 인터랙티브 시뮬레이션 모음 — HTML+JavaScript+Three.js",
    "category": "3D"
   },
@@ -991,7 +991,7 @@
    "repo": "nanoraider",
    "name": "나노레이더",
    "featured": false,
-   "live": "https://dogebi.github.io/nanoraider/",
+   "live": "https://sigco3111.github.io/nanoraider/",
    "desc": "(시뮬) · 로그라이크 영웅 관리 시뮬 — React+Vite+TypeScript+Zustand",
    "category": "2D게임"
   },
@@ -999,7 +999,7 @@
    "repo": "athena-crisis",
    "name": "Athena Crisis",
    "featured": false,
-   "live": "https://dogebi.github.io/athena-crisis/",
+   "live": "https://sigco3111.github.io/athena-crisis/",
    "desc": "(전략) · 모던 레트로 턴제 전략 게임 — vocs+waku+React+fbtee",
    "category": "2D게임"
   },
@@ -1027,7 +1027,7 @@
    "repo": "blacksite",
    "name": "블랙사이트",
    "featured": false,
-   "live": "https://dogebi.github.io/blacksite/",
+   "live": "https://sigco3111.github.io/blacksite/",
    "desc": "(액션/FPS) · 적대 PMC의 시설 탈환 10 웨이브 생존 FPS — Three.js+Rapier+TS+Vite",
    "category": "3D"
   },
@@ -1065,7 +1065,7 @@
    "repo": "smart-daddy-games",
    "name": "스마트대디 게임 모음",
    "featured": false,
-   "live": "https://dogebi.github.io/smart-daddy-games/",
+   "live": "https://sigco3111.github.io/smart-daddy-games/",
    "desc": "(기타) · 유튜버 스마트대디의 게임 모음",
    "category": "3D"
   },
@@ -1073,7 +1073,7 @@
    "repo": "bonfire",
    "name": "Bonfire",
    "featured": false,
-   "live": "https://dogebi.github.io/bonfire/",
+   "live": "https://sigco3111.github.io/bonfire/",
    "desc": "(RPG) · Flutter로 RPG 게임을 더 쉽게 만드는 엔진 — Flutter+Flame+Dart. 원본 RafaelBarbosatec/bonfire의 한글화 포크로, example 앱 메뉴 35개와 NPC 대화 6개를 한국어로 번역하고 라이브러리 dart doc-comment와",
    "category": "2D게임"
   },
@@ -1091,7 +1091,7 @@
    "repo": "pixel-run",
    "name": "픽셀 런",
    "featured": false,
-   "live": "https://dogebi.github.io/pixel-run/",
+   "live": "https://sigco3111.github.io/pixel-run/",
    "desc": "(액션) · 브라우저 무한 러너 픽셀 아트 — React+Vite+Canvas+TypeScript",
    "category": "2D게임"
   },
@@ -1129,7 +1129,7 @@
    "repo": "mystic-forest-three",
    "name": "미스틱 포레스트 보크셀",
    "featured": false,
-   "live": "https://dogebi.github.io/mystic-forest-three/",
+   "live": "https://sigco3111.github.io/mystic-forest-three/",
    "desc": "(시뮬) · 보크셀 신비의 숲 2.5D 탐험 — Three.js+Vite+TypeScript. miya123123/mystic-forest-three 미러",
    "category": "3D"
   },
@@ -1145,7 +1145,7 @@
    "repo": "elderglen",
    "name": "엘더글렌",
    "featured": false,
-   "live": "https://dogebi.github.io/elderglen/",
+   "live": "https://sigco3111.github.io/elderglen/",
    "desc": "(탐험/시뮬) · Three.js + WebGL 절차적 오픈 월드 — 잔잔한 1인칭 저폴리 계곡 탐험",
    "category": "3D"
   },
@@ -1181,7 +1181,7 @@
    "repo": "Shadow-of-the-Watchers",
    "name": "감시자의 그림자",
    "featured": true,
-   "live": "https://dogebi.github.io/Shadow-of-the-Watchers/",
+   "live": "https://sigco3111.github.io/Shadow-of-the-Watchers/",
    "screenshot": "https://raw.githubusercontent.com/sigco3111/Shadow-of-the-Watchers/HEAD/docs/screenshot-game.png",
    "type": "fork",
    "desc": "(전략) · 신화시대 종말론 RTS 한국어판 — Three.js+Vite",
@@ -1573,7 +1573,7 @@
    "repo": "hermes-control-room",
    "name": "헤르메스 컨트롤 룸",
    "featured": false,
-   "live": "https://dogebi.github.io/hermes-control-room/",
+   "live": "https://sigco3111.github.io/hermes-control-room/",
    "desc": "(자동화) · W17ant/Claude-Office 포크 · 헤르메스 자동화 시스템 시각화 · SIM/LIVE 토글 · 한글 UI",
    "category": "시각화"
   },
@@ -1631,7 +1631,7 @@
    "repo": "mingmo-game-korea",
    "name": "명말 · 협객행 —— 갑신 1644 (한국어판)",
    "featured": false,
-   "live": "https://dogebi.github.io/mingmo-game-korea/",
+   "live": "https://sigco3111.github.io/mingmo-game-korea/",
    "desc": "(액션) · 명말·협객행 갑신1644 — 순수 Canvas/JS 오픈월드 무협 게임 한국어화 버전",
    "category": null
   },
@@ -1655,7 +1655,7 @@
    "repo": "blog",
    "name": "Jekyll 블로그 관리 시스템",
    "featured": false,
-   "live": "https://dogebi.github.io/blog/",
+   "live": "https://sigco3111.github.io/blog/",
    "desc": "· Jekyll 기반 블로그 관리 시스템",
    "category": "웹앱"
   },
@@ -1663,7 +1663,7 @@
    "repo": "pages",
    "name": "pages",
    "featured": false,
-   "live": "https://dogebi.github.io/pages/",
+   "live": "https://sigco3111.github.io/pages/",
    "desc": "· 노션 Markdown 기반 GitHub Pages 정적 사이트",
    "category": "웹앱"
   },
@@ -1679,7 +1679,7 @@
    "repo": "skill-worldmap",
    "name": "ICBM2 스킬 월드맵",
    "featured": false,
-   "live": "https://dogebi.github.io/skill-worldmap/",
+   "live": "https://sigco3111.github.io/skill-worldmap/",
    "desc": "· ICBM2 스킬 월드맵 — 게임 오픈월드 스타일 인터랙티브 스킬 시각화",
    "category": "시각화"
   },
@@ -1687,7 +1687,7 @@
    "repo": "ant-colony-optimization",
    "name": "개미 집단 최적화",
    "featured": false,
-   "live": "https://dogebi.github.io/ant-colony-optimization/",
+   "live": "https://sigco3111.github.io/ant-colony-optimization/",
    "desc": "· [코드깎는노인-코딩미션] 개미 집단 채집 (Ant Colony Optimization)",
    "category": "실험"
   },
@@ -1695,7 +1695,7 @@
    "repo": "boids-flocking",
    "name": "Boids Flocking — 크레이그 레이놀즈의 군집 알고리즘 인공생명 시뮬레이션",
    "featured": false,
-   "live": "https://dogebi.github.io/boids-flocking/ ",
+   "live": "https://sigco3111.github.io/boids-flocking/ ",
    "desc": "· [코드깎는노인-코딩미션] 군집 시뮬레이션 (Boids Flocking)",
    "category": "실험"
   },
@@ -1703,7 +1703,7 @@
    "repo": "bridge-constructor",
    "name": "브리지 컨스트럭터",
    "featured": false,
-   "live": "https://dogebi.github.io/bridge-constructor/",
+   "live": "https://sigco3111.github.io/bridge-constructor/",
    "desc": "(시뮬) · [코드깎는노인-코딩미션] 다리 건설 시뮬레이터 (Bridge Constructor)",
    "category": "실험"
   },
@@ -1711,7 +1711,7 @@
    "repo": "chladni-patterns",
    "name": "클라드니 패턴",
    "featured": false,
-   "live": "https://dogebi.github.io/chladni-patterns/ ",
+   "live": "https://sigco3111.github.io/chladni-patterns/ ",
    "desc": "· [코드깎는노인-코딩미션] 클라드니 도형 (Sound Visualization)",
    "category": "실험"
   },
@@ -1719,7 +1719,7 @@
    "repo": "cloth-simulation",
    "name": "클로스 시뮬레이션",
    "featured": false,
-   "live": "https://dogebi.github.io/cloth-simulation/",
+   "live": "https://sigco3111.github.io/cloth-simulation/",
    "desc": "· [코드깎는노인-코딩미션] 찢어지는 3D 천 시뮬레이션 (Verlet Integration Cloth)",
    "category": "실험"
   },
@@ -1727,7 +1727,7 @@
    "repo": "double-pendulum-chaos",
    "name": "더블 펜듈럼 카오스",
    "featured": false,
-   "live": "https://dogebi.github.io/double-pendulum-chaos/",
+   "live": "https://sigco3111.github.io/double-pendulum-chaos/",
    "desc": "· [코드깎는노인-코딩미션] 더블 펜듈럼 (이중 진자) 시뮬레이션",
    "category": "실험"
   },
@@ -1735,7 +1735,7 @@
    "repo": "fractal-tree",
    "name": "프랙탈 트리",
    "featured": false,
-   "live": "https://dogebi.github.io/fractal-tree/",
+   "live": "https://sigco3111.github.io/fractal-tree/",
    "desc": "· [코드깎는노인-코딩미션] 프랙탈 나무 성장 (Recursive Tree)",
    "category": "실험"
   },
@@ -1743,7 +1743,7 @@
    "repo": "gravitational-lensing",
    "name": "중력 렌징",
    "featured": false,
-   "live": "https://dogebi.github.io/gravitational-lensing/ ",
+   "live": "https://sigco3111.github.io/gravitational-lensing/ ",
    "desc": "· [코드깎는노인-코딩미션] 중력 렌즈 효과 (Gravitational Lensing)",
    "category": "실험"
   },
@@ -1751,7 +1751,7 @@
    "repo": "lorenz-attractor",
    "name": "로렌츠 어트랙터",
    "featured": false,
-   "live": "https://dogebi.github.io/lorenz-attractor/ ",
+   "live": "https://sigco3111.github.io/lorenz-attractor/ ",
    "desc": "· [코드깎는노인-코딩미션] 로렌즈 어트랙터 (Strange Attractor)",
    "category": "실험"
   },
@@ -1759,7 +1759,7 @@
    "repo": "neon-fluid",
    "name": "네온 플루이드",
    "featured": false,
-   "live": "https://dogebi.github.io/neon-fluid/ ",
+   "live": "https://sigco3111.github.io/neon-fluid/ ",
    "desc": "· [코드깎는노인-코딩미션] 유체 역학 입자 시뮬레이션",
    "category": "실험"
   },
@@ -1767,7 +1767,7 @@
    "repo": "nbody-simulation",
    "name": "N-body 시뮬레이션",
    "featured": false,
-   "live": "https://dogebi.github.io/nbody-simulation/",
+   "live": "https://sigco3111.github.io/nbody-simulation/",
    "desc": "· [코드깎는노인-코딩미션] 중력 상호작용 (N-Body Simulation)",
    "category": "실험"
   },
@@ -1775,7 +1775,7 @@
    "repo": "newtons-cradle",
    "name": "뉴턴 크래들",
    "featured": false,
-   "live": "https://dogebi.github.io/newtons-cradle/ ",
+   "live": "https://sigco3111.github.io/newtons-cradle/ ",
    "desc": "(시뮬) · [코드깎는노인-코딩미션] 물리 기반 뉴턴의 요람 시뮬레이터 — Three.js + Cannon.js + Web Audio API",
    "category": "실험"
   },
@@ -1783,7 +1783,7 @@
    "repo": "pendulum-wave",
    "name": "펜듈럼 웨이브",
    "featured": false,
-   "live": "https://dogebi.github.io/pendulum-wave/",
+   "live": "https://sigco3111.github.io/pendulum-wave/",
    "desc": "· [코드깎는노인-코딩미션] 펜듈럼 웨이브 (Harmonic Motion)",
    "category": "실험"
   },
@@ -1791,7 +1791,7 @@
    "repo": "voxel-sandbox",
    "name": "복셀 샌드박스",
    "featured": false,
-   "live": "https://dogebi.github.io/voxel-sandbox/",
+   "live": "https://sigco3111.github.io/voxel-sandbox/",
    "desc": "(에디터) · [코드깎는노인-코딩미션] 복셀(Voxel) 터레인 에디터",
    "category": "실험"
   },
@@ -1799,7 +1799,7 @@
    "repo": "aurora-fluid",
    "name": "오로라 플루이드",
    "featured": false,
-   "live": "https://dogebi.github.io/aurora-fluid/ ",
+   "live": "https://sigco3111.github.io/aurora-fluid/ ",
    "desc": "· [코드깎는노인-코딩미션] 유체 역학 연기 (Fluid Dynamics)",
    "category": "실험"
   },
@@ -1815,7 +1815,7 @@
    "repo": "genetic-walking",
    "name": "유전 알고리즘 보행",
    "featured": false,
-   "live": "https://dogebi.github.io/genetic-walking/ ",
+   "live": "https://sigco3111.github.io/genetic-walking/ ",
    "desc": "· [코드깎는노인-코딩미션] 유전 알고리즘 보행 (Genetic Walking)",
    "category": "실험"
   },
@@ -1823,7 +1823,7 @@
    "repo": "dynamic-web-strings",
    "name": "다이나믹 웹 스트링스",
    "featured": false,
-   "live": "https://dogebi.github.io/dynamic-web-strings/ ",
+   "live": "https://sigco3111.github.io/dynamic-web-strings/ ",
    "desc": "· [코드깎는노인-코딩미션] 동적 거미줄과 장력 (Dynamic Web Strings)",
    "category": "실험"
   },
@@ -1831,7 +1831,7 @@
    "repo": "falling-sand-reactions",
    "name": "폴링 샌드 리액션",
    "featured": false,
-   "live": "https://dogebi.github.io/falling-sand-reactions/ ",
+   "live": "https://sigco3111.github.io/falling-sand-reactions/ ",
    "desc": "· [코드깎는노인-코딩미션] 원소 반응 샌드박스 — Falling+Sand+with+Reactions",
    "category": "실험"
   },
@@ -1839,7 +1839,7 @@
    "repo": "magnetic-fields",
    "name": "자기장",
    "featured": false,
-   "live": "https://dogebi.github.io/magnetic-fields/ ",
+   "live": "https://sigco3111.github.io/magnetic-fields/ ",
    "desc": "· [코드깎는노인-코딩미션] 자기장과 철가루 (Magnetic Fields)",
    "category": "실험"
   },
@@ -1847,7 +1847,7 @@
    "repo": "jelly-tetris",
    "name": "젤리 테트리스",
    "featured": false,
-   "live": "https://dogebi.github.io/jelly-tetris/",
+   "live": "https://sigco3111.github.io/jelly-tetris/",
    "desc": "· [코드깎는노인-코딩미션] 소프트 바디 테트리스 (Jelly Tetris)",
    "category": "실험"
   },
@@ -1855,7 +1855,7 @@
    "repo": "heavy-chain-ik",
    "name": "헤비 체인 IK",
    "featured": false,
-   "live": "https://dogebi.github.io/heavy-chain-ik/",
+   "live": "https://sigco3111.github.io/heavy-chain-ik/",
    "desc": "· [코드깎는노인-코딩미션] 무거운 사슬과 물리 (Inverse Kinematics)",
    "category": "실험"
   },
@@ -1863,7 +1863,7 @@
    "repo": "interactive-metaballs",
    "name": "인터랙티브 메타볼",
    "featured": false,
-   "live": "https://dogebi.github.io/interactive-metaballs/",
+   "live": "https://sigco3111.github.io/interactive-metaballs/",
    "desc": "· [코드깎는노인-코딩미션] 메타볼 액체 결합 (Interactive Metaballs)",
    "category": "실험"
   },
@@ -1871,7 +1871,7 @@
    "repo": "interactive-voronoi",
    "name": "인터랙티브 보로노이",
    "featured": false,
-   "live": "https://dogebi.github.io/interactive-voronoi/",
+   "live": "https://sigco3111.github.io/interactive-voronoi/",
    "desc": "· [코드깎는노인-코딩미션] 보로노이 다이어그램 (Interactive Voronoi)",
    "category": "실험"
   },
@@ -1879,7 +1879,7 @@
    "repo": "heat-conduction-heatmap",
    "name": "열전도 히트맵",
    "featured": false,
-   "live": "https://dogebi.github.io/heat-conduction-heatmap/",
+   "live": "https://sigco3111.github.io/heat-conduction-heatmap/",
    "desc": "· [코드깎는노인-코딩미션] 열전도 히트맵 (Thermodynamics)",
    "category": "실험"
   },
@@ -1887,7 +1887,7 @@
    "repo": "jelly-slime",
    "name": "젤리 슬라임",
    "featured": false,
-   "live": "https://dogebi.github.io/jelly-slime/ ",
+   "live": "https://sigco3111.github.io/jelly-slime/ ",
    "desc": "· [코드깎는노인-코딩미션] 젤리 슬라임 물리 (Soft Body Physics)",
    "category": "실험"
   },
@@ -1895,7 +1895,7 @@
    "repo": "gravity-typography",
    "name": "그래비티 타이포그래피",
    "featured": false,
-   "live": "https://dogebi.github.io/gravity-typography/ ",
+   "live": "https://sigco3111.github.io/gravity-typography/ ",
    "desc": "· [코드깎는노인-코딩미션] 중력 타이포그래피 (Falling Text)",
    "category": "실험"
   },
@@ -1903,7 +1903,7 @@
    "repo": "gray-scott-reaction-diffusion",
    "name": "그레이-스콧 반응 확산",
    "featured": false,
-   "live": "https://dogebi.github.io/gray-scott-reaction-diffusion/",
+   "live": "https://sigco3111.github.io/gray-scott-reaction-diffusion/",
    "desc": "· [코드깎는노인-코딩미션] 반응-확산 (Reaction-Diffusion) 패턴",
    "category": "실험"
   },
@@ -1911,7 +1911,7 @@
    "repo": "optics-prism-lab",
    "name": "옵틱스 프리즘 랩",
    "featured": false,
-   "live": "https://dogebi.github.io/optics-prism-lab/",
+   "live": "https://sigco3111.github.io/optics-prism-lab/",
    "desc": "· [코드깎는노인-코딩미션] 빛의 굴절과 프리즘 (Optics Lab)",
    "category": "실험"
   },
@@ -1919,7 +1919,7 @@
    "repo": "offroad-suspension",
    "name": "오프로드 서스펜션",
    "featured": false,
-   "live": "https://dogebi.github.io/offroad-suspension/",
+   "live": "https://sigco3111.github.io/offroad-suspension/",
    "desc": "· [코드깎는노인-코딩미션] 2D 오프로드 자동차 서스펜션",
    "category": "실험"
   },
@@ -1927,7 +1927,7 @@
    "repo": "particle-fireworks",
    "name": "파티클 파이어웍스",
    "featured": false,
-   "live": "https://dogebi.github.io/particle-fireworks/",
+   "live": "https://sigco3111.github.io/particle-fireworks/",
    "desc": "· [코드깎는노인-코딩미션] 리얼한 불꽃놀이 (Particle Fireworks)",
    "category": "실험"
   },
@@ -1935,7 +1935,7 @@
    "repo": "mandelbrot-kaleidoscope",
    "name": "만델브로트 칼레이도스코프",
    "featured": false,
-   "live": "https://dogebi.github.io/mandelbrot-kaleidoscope/ ",
+   "live": "https://sigco3111.github.io/mandelbrot-kaleidoscope/ ",
    "desc": "· [코드깎는노인-코딩미션] 만델브로 만화경 (Fractal Shader)",
    "category": "실험"
   },
@@ -1943,7 +1943,7 @@
    "repo": "ripple-tank",
    "name": "리플 탱크",
    "featured": false,
-   "live": "https://dogebi.github.io/ripple-tank/ ",
+   "live": "https://sigco3111.github.io/ripple-tank/ ",
    "desc": "· [코드깎는노인-코딩미션] 물결 파동 간섭 (Ripple Tank)",
    "category": "실험"
   },
@@ -1951,7 +1951,7 @@
    "repo": "retro-synthwave-shooter",
    "name": "레트로 신스웨이브 슈터",
    "featured": false,
-   "live": "https://dogebi.github.io/retro-synthwave-shooter/",
+   "live": "https://sigco3111.github.io/retro-synthwave-shooter/",
    "desc": "· [코드깎는노인-코딩미션] 레트로 신스웨이브 슈팅 게임",
    "category": "실험"
   },
@@ -1959,7 +1959,7 @@
    "repo": "voronoi-glass-fracture",
    "name": "유리 파편 파괴",
    "featured": false,
-   "live": "https://dogebi.github.io/voronoi-glass-fracture/",
+   "live": "https://sigco3111.github.io/voronoi-glass-fracture/",
    "desc": "· [코드깎는노인-코딩미션] 유리 파편 파괴 (Voronoi Fracture)",
    "category": "실험"
   },
@@ -1967,7 +1967,7 @@
    "repo": "synthwave-terrain",
    "name": "Synthwave Terrain — 80년대 레트로웨이브 무한 네온 그리드 비행",
    "featured": false,
-   "live": "https://dogebi.github.io/synthwave-terrain/ ",
+   "live": "https://sigco3111.github.io/synthwave-terrain/ ",
    "desc": "· [코드깎는노인-코딩미션] 레트로 웨이브 비행 (Synthwave Terrain)",
    "category": "실험"
   },
@@ -1975,7 +1975,7 @@
    "repo": "wind-tunnel-cfd",
    "name": "윈드 터널 CFD",
    "featured": false,
-   "live": "https://dogebi.github.io/wind-tunnel-cfd/ ",
+   "live": "https://sigco3111.github.io/wind-tunnel-cfd/ ",
    "desc": "· [코드깎는노인-코딩미션] 실시간 풍동 실험 (2D Wind Tunnel CFD)",
    "category": "실험"
   },
@@ -1983,7 +1983,7 @@
    "repo": "raycasting-doom",
    "name": "레이캐스팅 둠",
    "featured": false,
-   "live": "https://dogebi.github.io/raycasting-doom/",
+   "live": "https://sigco3111.github.io/raycasting-doom/",
    "desc": "· [코드깎는노인-코딩미션] 둠(Doom) 스타일 레이캐스팅 엔진",
    "category": "실험"
   },
@@ -1999,7 +1999,7 @@
    "repo": "procedural-city",
    "name": "프로시저럴 시티",
    "featured": false,
-   "live": "https://dogebi.github.io/procedural-city/ ",
+   "live": "https://sigco3111.github.io/procedural-city/ ",
    "desc": "(생성기) · [코드깎는노인-코딩미션] 절차적 생성 도시 (Procedural City)",
    "category": "실험"
   },
@@ -2007,7 +2007,7 @@
    "repo": "sci-fi-hud",
    "name": "SF HUD",
    "featured": false,
-   "live": "https://dogebi.github.io/sci-fi-hud/ ",
+   "live": "https://sigco3111.github.io/sci-fi-hud/ ",
    "desc": "· [코드깎는노인-코딩미션] SF 영화 해킹 인터페이스 (Sci-Fi HUD)",
    "category": "실험"
   },
@@ -2015,7 +2015,7 @@
    "repo": "cyberpunk-globe",
    "name": "사이버펑크 글로브",
    "featured": false,
-   "live": "https://dogebi.github.io/cyberpunk-globe/",
+   "live": "https://sigco3111.github.io/cyberpunk-globe/",
    "desc": "(시각화) · [코드깎는노인-코딩미션] Three.js 사이버펑크 지구본",
    "category": "실험"
   },
@@ -2023,7 +2023,7 @@
    "repo": "make-app-wiz",
    "name": "앱 생성 프롬프트 아이디어 마법사",
    "featured": false,
-   "live": "https://dogebi.github.io/make-app-wiz/",
+   "live": "https://sigco3111.github.io/make-app-wiz/",
    "desc": "· AI 앱 생성 프롬프트 설계 도우미",
    "category": "자동화"
   },
@@ -2031,7 +2031,7 @@
    "repo": "google-script-wizard",
    "name": "구글 앱스크립트 마법사",
    "featured": false,
-   "live": "https://dogebi.github.io/google-script-wizard/",
+   "live": "https://sigco3111.github.io/google-script-wizard/",
    "desc": "(자동화) · Google Apps Script 프로젝트 자동 생성 도구",
    "category": "자동화"
   },
@@ -2039,7 +2039,7 @@
    "repo": "dev-trend-oracle",
    "name": "개발 트렌드 오라클",
    "featured": false,
-   "live": "https://dogebi.github.io/dev-trend-oracle/",
+   "live": "https://sigco3111.github.io/dev-trend-oracle/",
    "desc": "(시각화) · 개발 트렌드 오라클 — HN/Reddit/GitHub 트렌딩 기술 스택 실시간 대시보드",
    "category": "웹앱"
   },
@@ -2047,7 +2047,7 @@
    "repo": "ai-buy-sell",
    "name": "AI Buy&Sell",
    "featured": false,
-   "live": "https://dogebi.github.io/ai-buy-sell/ ",
+   "live": "https://sigco3111.github.io/ai-buy-sell/ ",
    "desc": "· AI 주식 매매 추천 도구",
    "category": "웹앱"
   },
@@ -2055,7 +2055,7 @@
    "repo": "fire-tribe-base",
    "name": "파이어족 베이스",
    "featured": false,
-   "live": "https://dogebi.github.io/fire-tribe-base/ ",
+   "live": "https://sigco3111.github.io/fire-tribe-base/ ",
    "desc": "· FIRE족 아이디어 발상 관리 플랫폼",
    "category": "웹앱"
   },
@@ -2063,7 +2063,7 @@
    "repo": "insight-pick",
    "name": "인사이트픽",
    "featured": false,
-   "live": "https://dogebi.github.io/insight-pick/",
+   "live": "https://sigco3111.github.io/insight-pick/",
    "desc": "· AI 기반 주식 포트폴리오 추천 도구",
    "category": "웹앱"
   },
@@ -2089,7 +2089,7 @@
    "repo": "svg-converter",
    "name": "SVG 변환기",
    "featured": false,
-   "live": "https://dogebi.github.io/svg-converter/",
+   "live": "https://sigco3111.github.io/svg-converter/",
    "desc": "· PNG ↔ SVG 이미지 변환 도구",
    "category": "웹앱"
   },
@@ -2097,7 +2097,7 @@
    "repo": "core-markdown-editor",
    "name": "코어 마크다운 편집기",
    "featured": false,
-   "live": "https://dogebi.github.io/core-markdown-editor/",
+   "live": "https://sigco3111.github.io/core-markdown-editor/",
    "desc": "· AI 기반 마크다운 편집기",
    "category": "웹앱"
   },
@@ -2115,7 +2115,7 @@
    "repo": "photosynthesis-simulator",
    "name": "식물 광합성 시뮬레이터",
    "featured": false,
-   "live": "https://dogebi.github.io/photosynthesis-simulator/",
+   "live": "https://sigco3111.github.io/photosynthesis-simulator/",
    "desc": "· 빛, 이산화탄소, 물, 온도, 빛 파장 등 조건을 조절하며 광합성 과정을 인터랙티브하게 학습하는 교육용 시뮬레이터",
    "category": "실험"
   },
@@ -2123,7 +2123,7 @@
    "repo": "api-playground",
    "name": "API 플레이그라운드",
    "featured": false,
-   "live": "https://dogebi.github.io/api-playground/",
+   "live": "https://sigco3111.github.io/api-playground/",
    "desc": "· API Playground — 실시간 공개 API 실험실 | Test 100+ free public APIs in one place",
    "category": "실험"
   },
@@ -2131,7 +2131,7 @@
    "repo": "astrocartography",
    "name": "에스트로카토그래피 탐험가",
    "featured": false,
-   "live": "https://dogebi.github.io/astrocartography/",
+   "live": "https://sigco3111.github.io/astrocartography/",
    "desc": "(시각화) · 점성술 기반 개인별 지도 시각화 도구",
    "category": "웹앱"
   },
@@ -2139,7 +2139,7 @@
    "repo": "decision-genie",
    "name": "고민 결정 마법사",
    "featured": false,
-   "live": "https://dogebi.github.io/decision-genie/",
+   "live": "https://sigco3111.github.io/decision-genie/",
    "desc": "· AI 고민 해결 의사결정 보조 도구",
    "category": "웹앱"
   },
@@ -2155,7 +2155,7 @@
    "repo": "codeviz-ai",
    "name": "CodeViz AI(코드분석기)",
    "featured": false,
-   "live": "https://dogebi.github.io/codeviz-ai/",
+   "live": "https://sigco3111.github.io/codeviz-ai/",
    "desc": "· AI 기반 코드 분석 시각화 도구",
    "category": "시각화"
   },
@@ -2163,7 +2163,7 @@
    "repo": "ccusage-json",
    "name": "클로드코드 사용량 대시보드",
    "featured": false,
-   "live": "https://dogebi.github.io/ccusage-json/",
+   "live": "https://sigco3111.github.io/ccusage-json/",
    "desc": "· Claude Code 사용량 분석 대시보드",
    "category": "시각화"
   },
@@ -2171,7 +2171,7 @@
    "repo": "git-constellation",
    "name": "Git 컨스텔레이션",
    "featured": false,
-   "live": "https://dogebi.github.io/git-constellation/",
+   "live": "https://sigco3111.github.io/git-constellation/",
    "desc": "· GitHub 커밋 히스토리를 별자리처럼 시각화",
    "category": "시각화"
   },
@@ -2179,7 +2179,7 @@
    "repo": "code-map",
    "name": "코드맵 생성기",
    "featured": false,
-   "live": "https://dogebi.github.io/code-map/",
+   "live": "https://sigco3111.github.io/code-map/",
    "desc": "(시각화) · 코드 구조 시각화 도구",
    "category": "실험"
   },
@@ -2187,7 +2187,7 @@
    "repo": "token-meter",
    "name": "토큰 미터기",
    "featured": false,
-   "live": "https://dogebi.github.io/token-meter/",
+   "live": "https://sigco3111.github.io/token-meter/",
    "desc": "· LLM 토큰 분할 시각화 도구",
    "category": "시각화"
   },
@@ -2195,7 +2195,7 @@
    "repo": "json-flow",
    "name": "JSON 순서도 시각화 도구",
    "featured": false,
-   "live": "https://dogebi.github.io/json-flow/",
+   "live": "https://sigco3111.github.io/json-flow/",
    "desc": "(시각화) · JSON 구조 순서도 시각화 도구",
    "category": "시각화"
   },
@@ -2203,7 +2203,7 @@
    "repo": "repo-dna-analyzer",
    "name": "Repo DNA — 코드 스타일 지문 분석기",
    "featured": false,
-   "live": "https://dogebi.github.io/repo-dna-analyzer/",
+   "live": "https://sigco3111.github.io/repo-dna-analyzer/",
    "desc": "(시각화) · Repo DNA — 코드 스타일 지문 분석기. GitHub 저장소의 들여쓰기, 명명법, 함수 길이, 주석 비율을 분석하여 DNA 헬릭스 + 레이더 차트로 시각화합니다.",
    "category": "시각화"
   },
@@ -2211,7 +2211,7 @@
    "repo": "cellverse",
    "name": "CellVerse — 세포 자동기 실험실",
    "featured": false,
-   "live": "https://dogebi.github.io/cellverse/",
+   "live": "https://sigco3111.github.io/cellverse/",
    "desc": "(시뮬) · 세포 자동기 실험실 — Conway's Game of Life, Wireworld, Langton's Ant 등 8가지 프리셋 + 커스텀 규칙 빌더. 단순한 규칙에서 복잡한 생명이 탄생하는 창발적 시스템을 브라우저에서 체험하세요.",
    "category": "2D게임"
   },
@@ -2219,7 +2219,7 @@
    "repo": "text-sync-check",
    "name": "텍스트 싱크 체크",
    "featured": false,
-   "live": "https://dogebi.github.io/text-sync-check/",
+   "live": "https://sigco3111.github.io/text-sync-check/",
    "desc": "· 텍스트 차이 비교 유틸리티",
    "category": "웹앱"
   },
@@ -2227,7 +2227,7 @@
    "repo": "core-image-converter",
    "name": "코어 이미지 컨버터",
    "featured": false,
-   "live": "https://dogebi.github.io/core-image-converter/",
+   "live": "https://sigco3111.github.io/core-image-converter/",
    "desc": "· 브라우저 기반 대량 이미지 포맷 변환 도구",
    "category": "웹앱"
   },
@@ -2235,7 +2235,7 @@
    "repo": "pixedit",
    "name": "픽스에딧",
    "featured": false,
-   "live": "https://dogebi.github.io/pixedit/",
+   "live": "https://sigco3111.github.io/pixedit/",
    "desc": "· 웹 기반 이미지 편집기",
    "category": "웹앱"
   },
@@ -2243,7 +2243,7 @@
    "repo": "rzweb",
    "name": "RzWeb 한국어版",
    "featured": false,
-   "live": "https://dogebi.github.io/rzweb/",
+   "live": "https://sigco3111.github.io/rzweb/",
    "desc": "· Rizin 기반 브라우저 리버스 엔지니어링 도구 — WebAssembly",
    "category": "웹앱"
   },
@@ -2251,7 +2251,7 @@
    "repo": "core-video-editor",
    "name": "코어 비디오 에디터",
    "featured": false,
-   "live": "https://dogebi.github.io/core-video-editor/",
+   "live": "https://sigco3111.github.io/core-video-editor/",
    "desc": "· AI 기반 웹 비디오 편집기",
    "category": "웹앱"
   },
@@ -2331,7 +2331,7 @@
    "repo": "dongne-today",
    "name": "우리 동네 오늘",
    "featured": false,
-   "live": "https://dogebi.github.io/dongne-today/",
+   "live": "https://sigco3111.github.io/dongne-today/",
    "desc": "· dongne-today — 내 동네 오늘 뭐 하지? AI가 6종 데이터 크로스체크로 1분 안에 코디해주는 미니앱",
    "category": "웹앱"
   },
@@ -2339,7 +2339,7 @@
    "repo": "clipboard-history",
    "name": "클립보드 히스토리",
    "featured": false,
-   "live": "https://dogebi.github.io/clipboard-history/",
+   "live": "https://sigco3111.github.io/clipboard-history/",
    "desc": "· macOS/브라우저 클립보드 히스토리 매니저 — IndexedDB 기반 무제한 보관 + 검색 + 복원/삭제 + JSON 내보내기",
    "category": "웹앱"
   },
@@ -2363,7 +2363,7 @@
    "repo": "tegaki-live-demo",
    "name": "Tegaki 손글씨 데모",
    "featured": false,
-   "live": "https://dogebi.github.io/tegaki-live-demo/",
+   "live": "https://sigco3111.github.io/tegaki-live-demo/",
    "desc": "· 한글/영문/일본어 손글씨 애니메이션 라이브 데모 — gkurt/tegaki 기반",
    "category": "시각화"
   },
@@ -2379,7 +2379,7 @@
    "repo": "minimax-of-duty",
    "name": "미니맥스 오브 듀티",
    "featured": false,
-   "live": "https://dogebi.github.io/minimax-of-duty/",
+   "live": "https://sigco3111.github.io/minimax-of-duty/",
    "desc": "(FPS) · Fork of mshumer/Claude-of-Duty — Three.js r180 + WebGL2 브라우저 FPS, 풀 프로시저럴 (55k LOC). 한국어 환경 확장.",
    "category": "3D"
   },
@@ -2387,7 +2387,7 @@
    "repo": "token-town-kr",
    "name": "토큰타운 · TokenTown (한국어)",
    "featured": false,
-   "live": "https://dogebi.github.io/token-town-kr/",
+   "live": "https://sigco3111.github.io/token-town-kr/",
    "desc": "· 원본 LaurentiuGabriel/TokenTown에서 파생된 한국어 독립 포크. LLM 트랜스포머를 아이소메트릭 도시로 시각화한 가이드 투어를 한국어로 즐기세요.",
    "category": "시각화"
   },
@@ -2395,7 +2395,7 @@
    "repo": "engineworks-kr",
    "name": "엔진웍스 · EngineWorks (한국어)",
    "featured": false,
-   "live": "https://dogebi.github.io/engineworks-kr/",
+   "live": "https://sigco3111.github.io/engineworks-kr/",
    "desc": "· 원본 LaurentiuGabriel/EngineWorks에서 파생된 한국어 독립 포크. F1 파워유닛을 아이소메트릭 공장에서 한 정류장씩 조립하는 가이드 투어를 한국어로 즐기세요.",
    "category": "시각화"
   },
@@ -2403,7 +2403,7 @@
    "repo": "chiptycoon-kr",
    "name": "칩타이쿤 · ChipTycoon (한국어)",
    "featured": false,
-   "live": "https://dogebi.github.io/chiptycoon-kr/",
+   "live": "https://sigco3111.github.io/chiptycoon-kr/",
    "desc": "· 원본 LaurentiuGabriel/ChipTycoon에서 파생된 한국어 독립 포크. 칩 공장의 가이드가 있는 아이소메트릭 투어를 한국어로 즐기세요.",
    "category": "시각화"
   },
@@ -2429,7 +2429,7 @@
    "repo": "youtube-board",
    "name": "YouTube 채널 분석 대시보드",
    "featured": false,
-   "live": "https://dogebi.github.io/youtube-board/",
+   "live": "https://sigco3111.github.io/youtube-board/",
    "desc": "(시각화) · YouTube 채널 분석 대시보드",
    "category": "시각화"
   },
@@ -2437,7 +2437,7 @@
    "repo": "ip-board",
    "name": "IP 대시보드",
    "featured": false,
-   "live": "https://dogebi.github.io/ip-board/",
+   "live": "https://sigco3111.github.io/ip-board/",
    "desc": "(시각화) · IP 주소 분석 및 연결 진단 대시보드",
    "category": "시각화"
   },
@@ -2445,7 +2445,7 @@
    "repo": "steam-board",
    "name": "스팀 대시보드",
    "featured": false,
-   "live": "https://dogebi.github.io/steam-board/",
+   "live": "https://sigco3111.github.io/steam-board/",
    "desc": "(시각화) · Steam 프로필 분석 대시보드",
    "category": "시각화"
   },
@@ -2453,7 +2453,7 @@
    "repo": "github-board",
    "name": "GitHub 사용자 대시보드",
    "featured": false,
-   "live": "https://dogebi.github.io/github-board/",
+   "live": "https://sigco3111.github.io/github-board/",
    "desc": "(시각화) · GitHub 사용자 프로필 대시보드",
    "category": "웹앱"
   },
@@ -2461,7 +2461,7 @@
    "repo": "world-data-map",
    "name": "세계 데이터 지도",
    "featured": false,
-   "live": "https://dogebi.github.io/world-data-map/",
+   "live": "https://sigco3111.github.io/world-data-map/",
    "desc": "· 국가별 통계 데이터 인터랙티브 지도",
    "category": "웹앱"
   },
@@ -2469,7 +2469,7 @@
    "repo": "world-bank-board",
    "name": "세계은행 데이터 AI 비교 분석기",
    "featured": false,
-   "live": "https://dogebi.github.io/world-bank-board/",
+   "live": "https://sigco3111.github.io/world-bank-board/",
    "desc": "· 세계은행 데이터 AI 비교 분석 대시보드",
    "category": "웹앱"
   },
@@ -2477,7 +2477,7 @@
    "repo": "satellite-board",
    "name": "위성 궤도 시각화",
    "featured": false,
-   "live": "https://dogebi.github.io/satellite-board/",
+   "live": "https://sigco3111.github.io/satellite-board/",
    "desc": "(시각화) · 위성 궤도 3D 시각화 대시보드",
    "category": "시각화"
   },
@@ -2485,7 +2485,7 @@
    "repo": "co2-board",
    "name": "국가간 CO₂ 배출량 비교 분석",
    "featured": false,
-   "live": "https://dogebi.github.io/co2-board/",
+   "live": "https://sigco3111.github.io/co2-board/",
    "desc": "(시각화) · 국가별 CO₂ 배출량 비교 분석 대시보드",
    "category": "시각화"
   },
@@ -2493,7 +2493,7 @@
    "repo": "ke-globe",
    "name": "KE-GLOBE — 전 세계 핵실험 타임라인 3D 시각화",
    "featured": false,
-   "live": "https://dogebi.github.io/ke-globe/",
+   "live": "https://sigco3111.github.io/ke-globe/",
    "desc": "(시각화) · 전 세계 핵실험 타임라인 (1945~현재) — CesiumJS 3D 글로벌 시각화",
    "category": "시각화"
   },
@@ -2501,7 +2501,7 @@
    "repo": "cable-globe",
    "name": "케이블 글로브",
    "featured": false,
-   "live": "https://dogebi.github.io/cable-globe/",
+   "live": "https://sigco3111.github.io/cable-globe/",
    "desc": "(시각화) · 전 세계 해저 인터넷 케이블 3D 인터랙티브 지도 — Globe.gl + Three.js 기반 해저 네트워크 시각화",
    "category": "시각화"
   },
@@ -2509,7 +2509,7 @@
    "repo": "earthquake",
    "name": "전세계 지진 추적기",
    "featured": false,
-   "live": "https://dogebi.github.io/earthquake/",
+   "live": "https://sigco3111.github.io/earthquake/",
    "desc": "(시각화) · 전 세계 실시간 지진 추적 대시보드",
    "category": "시각화"
   },
@@ -2517,7 +2517,7 @@
    "repo": "texture-forge",
    "name": "텍스처 포지",
    "featured": false,
-   "live": "https://dogebi.github.io/texture-forge/",
+   "live": "https://sigco3111.github.io/texture-forge/",
    "desc": "· 절차적 텍스처 제네레이터 — Perlin/Simplex 노이즈로 돌, 나무, 대리석 등 2D 텍스처를 브라우저에서 실시간 생성",
    "category": "실험"
   },
@@ -2525,7 +2525,7 @@
    "repo": "terrain",
    "name": "지형 프로필 분석기",
    "featured": false,
-   "live": "https://dogebi.github.io/terrain/",
+   "live": "https://sigco3111.github.io/terrain/",
    "desc": "· 지형 고도 프로필 분석 도구",
    "category": "시각화"
   },
@@ -2541,7 +2541,7 @@
    "repo": "algo-visualizer",
    "name": "알고 비주얼라이저",
    "featured": false,
-   "live": "https://dogebi.github.io/algo-visualizer/",
+   "live": "https://sigco3111.github.io/algo-visualizer/",
    "desc": "· 알고리즘 & 자료구조 시각화 — 정렬, 탐색, 트리, 스택, 큐, 연결리스트를 애니메이션으로",
    "category": "시각화"
   },
@@ -2549,7 +2549,7 @@
    "repo": "ai-flowchart",
    "name": "AI 플로우차트 생성기",
    "featured": false,
-   "live": "https://dogebi.github.io/ai-flowchart/",
+   "live": "https://sigco3111.github.io/ai-flowchart/",
    "desc": "(생성기) · AI 플로우차트 생성기",
    "category": "웹앱"
   },
@@ -2557,7 +2557,7 @@
    "repo": "deckbuilder-adventure",
    "name": "덱빌더 어드벤처",
    "featured": false,
-   "live": "https://dogebi.github.io/deckbuilder-adventure/",
+   "live": "https://sigco3111.github.io/deckbuilder-adventure/",
    "desc": "(RPG) · 덱 빌딩 카드 RPG 어드벤처 게임",
    "category": "2D게임"
   },
@@ -2565,7 +2565,7 @@
    "repo": "hexagon-conqueror",
    "name": "헥사곤 정복자",
    "featured": false,
-   "live": "https://dogebi.github.io/hexagon-conqueror/",
+   "live": "https://sigco3111.github.io/hexagon-conqueror/",
    "desc": "(전략) · 헥사곤 정복자 - 실제 한국 지도 위에서 펼치는 영토 확장 리스크 게임. deck.gl HexagonLayer로 구현된 턴제 전략 시뮬레이션.",
    "category": "2D게임"
   },
@@ -2573,7 +2573,7 @@
    "repo": "predator",
    "name": "포식자",
    "featured": false,
-   "live": "https://dogebi.github.io/predator/",
+   "live": "https://sigco3111.github.io/predator/",
    "desc": "(액션) · 생물 흡수 성장 아케이드 게임",
    "category": "2D게임"
   },
@@ -2589,7 +2589,7 @@
    "repo": "fruitbox",
    "name": "사과게임 · sigco fruitbox v0.3",
    "featured": false,
-   "live": "https://dogebi.github.io/fruitbox/",
+   "live": "https://sigco3111.github.io/fruitbox/",
    "desc": "(퍼즐) · 사과게임 (sigco fruitbox) — 매일 새로운 17×10 사과 보드에서 목표 합(8/10/12/15 랜덤)으로 직사각형 영역을 지우는 120초 퍼즐",
    "category": "2D게임"
   },
@@ -2613,7 +2613,7 @@
    "repo": "liquid-sort",
    "name": "리퀴드 소트",
    "featured": false,
-   "live": "https://dogebi.github.io/liquid-sort/",
+   "live": "https://sigco3111.github.io/liquid-sort/",
    "desc": "(퍼즐) · 액체 색상 정렬 퍼즐 게임",
    "category": "2D게임"
   },
@@ -2621,7 +2621,7 @@
    "repo": "poker-king",
    "name": "포커 킹",
    "featured": false,
-   "live": "https://dogebi.github.io/poker-king/",
+   "live": "https://sigco3111.github.io/poker-king/",
    "desc": "(보드) · 텍사스 홀덤 포커 게임",
    "category": "2D게임"
   },
@@ -2629,7 +2629,7 @@
    "repo": "one-card-game",
    "name": "원카드 게임",
    "featured": false,
-   "live": "https://dogebi.github.io/one-card-game/",
+   "live": "https://sigco3111.github.io/one-card-game/",
    "desc": "(보드) · 원카드 카드 게임",
    "category": "2D게임"
   },
@@ -2637,7 +2637,7 @@
    "repo": "ladder-game",
    "name": "세상에서 가장 공정한 사다리게임",
    "featured": false,
-   "live": "https://dogebi.github.io/ladder-game/",
+   "live": "https://sigco3111.github.io/ladder-game/",
    "desc": "(보드) · 공정한 사다리 타기 게임",
    "category": "웹앱"
   },
@@ -2645,7 +2645,7 @@
    "repo": "sand-sandbox",
    "name": "샌드 샌드박스",
    "featured": false,
-   "live": "https://dogebi.github.io/sand-sandbox/",
+   "live": "https://sigco3111.github.io/sand-sandbox/",
    "desc": "(시뮬) · Falling Sand Simulation — 모래, 물, 불, 식물 등 요소 간 화학 반응이 일어나는 인터랙티브 샌드박스. Canvas 기반",
    "category": "실험"
   },
@@ -2661,7 +2661,7 @@
    "repo": "last-banner",
    "name": "라스트 배너",
    "featured": false,
-   "live": "https://dogebi.github.io/last-banner/",
+   "live": "https://sigco3111.github.io/last-banner/",
    "desc": "(RPG) · 변방 영지 운영 로그라이크 — Godot 4 + macOS 네이티브 + Wesnoth 2D — 자동+진행+결정+큐",
    "category": "2D게임"
   },
@@ -2669,7 +2669,7 @@
    "repo": "rpg-script-editor",
    "name": "RPG 스크립트 편집기",
    "featured": false,
-   "live": "https://dogebi.github.io/rpg-script-editor/",
+   "live": "https://sigco3111.github.io/rpg-script-editor/",
    "desc": "(RPG) · RPG 게임 시나리오 제작 편집기",
    "category": "웹앱"
   },
@@ -2677,7 +2677,7 @@
    "repo": "rpg-adv-bt",
    "name": "RPG어드벤처 (잊혀진 영역의 연대기)",
    "featured": false,
-   "live": "https://dogebi.github.io/rpg-adv-bt/",
+   "live": "https://sigco3111.github.io/rpg-adv-bt/",
    "desc": "(RPG) · JRPG 어드벤처 엔진 - 잊혀진 영역의 연대기",
    "category": "2D게임"
   },
@@ -2685,7 +2685,7 @@
    "repo": "rpg-adv-at",
    "name": "RPG어드벤처",
    "featured": false,
-   "live": "https://dogebi.github.io/rpg-adv-at/",
+   "live": "https://sigco3111.github.io/rpg-adv-at/",
    "desc": "(RPG) · JRPG 어드벤처 엔진 - 사이버펑크 조선",
    "category": "2D게임"
   },
@@ -2701,7 +2701,7 @@
    "repo": "mount-and-blade",
    "name": "마운트 앤 블레이드 Web",
    "featured": false,
-   "live": "https://dogebi.github.io/mount-and-blade/",
+   "live": "https://sigco3111.github.io/mount-and-blade/",
    "desc": "(RPG) · 마운트 앤 블레이드 텍스트 RPG 게임",
    "category": "2D게임"
   },
@@ -2709,7 +2709,7 @@
    "repo": "dungeon-story",
    "name": "던전 앤 스토리",
    "featured": false,
-   "live": "https://dogebi.github.io/dungeon-story/",
+   "live": "https://sigco3111.github.io/dungeon-story/",
    "desc": "(RPG) · 마을 건설 던전 RPG 게임",
    "category": "2D게임"
   },
@@ -2717,7 +2717,7 @@
    "repo": "royal_secretary",
    "name": "왕실 서기관: AI 에델바이스 보고서",
    "featured": false,
-   "live": "https://dogebi.github.io/royal_secretary/",
+   "live": "https://sigco3111.github.io/royal_secretary/",
    "desc": "(시뮬) · 판타지 왕국 경영 시뮬레이션 게임",
    "category": "2D게임"
   },
@@ -2725,7 +2725,7 @@
    "repo": "lightning-strike",
    "name": "라이트닝 스트라이크",
    "featured": false,
-   "live": "https://dogebi.github.io/lightning-strike/",
+   "live": "https://sigco3111.github.io/lightning-strike/",
    "desc": "(액션) · 번개 소환 아케이드 게임",
    "category": "2D게임"
   },
@@ -2733,7 +2733,7 @@
    "repo": "lifeGame",
    "name": "디지털 인생 게임",
    "featured": false,
-   "live": "https://dogebi.github.io/lifeGame/",
+   "live": "https://sigco3111.github.io/lifeGame/",
    "desc": "(시뮬) · 디지털 인생 시뮬레이션 게임",
    "category": "2D게임"
   },
@@ -2741,7 +2741,7 @@
    "repo": "convenience24",
    "name": "24시 편의점 이야기",
    "featured": false,
-   "live": "https://dogebi.github.io/convenience24/",
+   "live": "https://sigco3111.github.io/convenience24/",
    "desc": "(시뮬) · 24시 편의점 경영 시뮬레이션 게임",
    "category": "2D게임"
   },
@@ -2749,7 +2749,7 @@
    "repo": "pixel-farm-story",
    "name": "픽셀 농장 이야기",
    "featured": false,
-   "live": "https://dogebi.github.io/pixel-farm-story/",
+   "live": "https://sigco3111.github.io/pixel-farm-story/",
    "desc": "(시뮬) · 농장 경영 시뮬레이션 게임",
    "category": "2D게임"
   },
@@ -2757,7 +2757,7 @@
    "repo": "grand-prix",
    "name": "그랑프리 스토리: 이모지 레이서",
    "featured": false,
-   "live": "https://dogebi.github.io/grand-prix/",
+   "live": "https://sigco3111.github.io/grand-prix/",
    "desc": "(시뮬) · 레이싱 팀 경영 시뮬레이션 게임",
    "category": "2D게임"
   },
@@ -2765,7 +2765,7 @@
    "repo": "super-robot-lite",
    "name": "슈퍼로봇대전 Lite",
    "featured": false,
-   "live": "https://dogebi.github.io/super-robot-lite/",
+   "live": "https://sigco3111.github.io/super-robot-lite/",
    "desc": "(전략) · 슈퍼로봇대전 턴제 전략 게임",
    "category": "2D게임"
   },
@@ -2773,7 +2773,7 @@
    "repo": "geoPoly",
    "name": "지구마블 - 3D 보드 게임",
    "featured": false,
-   "live": "https://dogebi.github.io/geoPoly/",
+   "live": "https://sigco3111.github.io/geoPoly/",
    "desc": "(보드) · 지구마블 3D 보드 게임",
    "category": "3D"
   },
@@ -2781,7 +2781,7 @@
    "repo": "juice-tycoon",
    "name": "생과일 타이쿤",
    "featured": false,
-   "live": "https://dogebi.github.io/juice-tycoon/",
+   "live": "https://sigco3111.github.io/juice-tycoon/",
    "desc": "(시뮬) · 과일 주스 가게 경영 시뮬레이션 게임",
    "category": "2D게임"
   },
@@ -2789,7 +2789,7 @@
    "repo": "democracy4-lite",
    "name": "민주주의4.0 Lite",
    "featured": false,
-   "live": "https://dogebi.github.io/democracy4-lite/",
+   "live": "https://sigco3111.github.io/democracy4-lite/",
    "desc": "(시뮬) · 국가 운영 정치 시뮬레이션 게임",
    "category": "2D게임"
   },
@@ -2797,7 +2797,7 @@
    "repo": "castle-breaker",
    "name": "캐슬 브레이커",
    "featured": false,
-   "live": "https://dogebi.github.io/castle-breaker/",
+   "live": "https://sigco3111.github.io/castle-breaker/",
    "desc": "(액션) · 3D 물리 기반 성 파괴 게임",
    "category": "3D"
   },
@@ -2805,7 +2805,7 @@
    "repo": "wobbly-tower",
    "name": "흔들흔들 탑 쌓기",
    "featured": false,
-   "live": "https://dogebi.github.io/wobbly-tower/",
+   "live": "https://sigco3111.github.io/wobbly-tower/",
    "desc": "(보드) · 3D 물리 기반 탑 쌓기 게임",
    "category": "3D"
   },
@@ -2813,7 +2813,7 @@
    "repo": "wordle",
    "name": "워들 게임",
    "featured": false,
-   "live": "https://dogebi.github.io/wordle/",
+   "live": "https://sigco3111.github.io/wordle/",
    "desc": "(퍼즐) · 단어 추측 퍼즐 게임",
    "category": "2D게임"
   },
@@ -2829,7 +2829,7 @@
    "repo": "candy-crush-saga",
    "name": "캔디 크러시 사가 클론",
    "featured": false,
-   "live": "https://dogebi.github.io/candy-crush-saga/",
+   "live": "https://sigco3111.github.io/candy-crush-saga/",
    "desc": "(퍼즐) · 캔디 크러쉬 매치-3 퍼즐 게임",
    "category": "2D게임"
   },
@@ -2837,7 +2837,7 @@
    "repo": "number-connect",
    "name": "넘버 커넥트",
    "featured": false,
-   "live": "https://dogebi.github.io/number-connect/",
+   "live": "https://sigco3111.github.io/number-connect/",
    "desc": "(퍼즐) · 숫자 연결 퍼즐 게임",
    "category": "2D게임"
   },
@@ -2845,7 +2845,7 @@
    "repo": "number-link-merge",
    "name": "넘버링크",
    "featured": false,
-   "live": "https://dogebi.github.io/number-link-merge/",
+   "live": "https://sigco3111.github.io/number-link-merge/",
    "desc": "(퍼즐) · 숫자 합치기 퍼즐 게임",
    "category": "2D게임"
   },
@@ -2853,7 +2853,7 @@
    "repo": "watermelon",
    "name": "수박 게임 3D",
    "featured": false,
-   "live": "https://dogebi.github.io/watermelon/",
+   "live": "https://sigco3111.github.io/watermelon/",
    "desc": "(퍼즐) · 3D 과일 합치기 퍼즐 게임",
    "category": "3D"
   },
@@ -2861,7 +2861,7 @@
    "repo": "core-breaker",
    "name": "코어 브레이커",
    "featured": false,
-   "live": "https://dogebi.github.io/core-breaker/",
+   "live": "https://sigco3111.github.io/core-breaker/",
    "desc": "(FPS) · 3D 구조물 파괴 FPS 게임",
    "category": "3D"
   },
@@ -2869,7 +2869,7 @@
    "repo": "block-simCity",
    "name": "블록 심시티 빌더",
    "featured": false,
-   "live": "https://dogebi.github.io/block-simCity/",
+   "live": "https://sigco3111.github.io/block-simCity/",
    "desc": "(시뮬) · 블록 도시 건설 시뮬레이션 게임",
    "category": "3D"
   },
@@ -2877,7 +2877,7 @@
    "repo": "department-tycoon",
    "name": "백화점 타이쿤",
    "featured": false,
-   "live": "https://dogebi.github.io/department-tycoon/",
+   "live": "https://sigco3111.github.io/department-tycoon/",
    "desc": "(시뮬) · 백화점 경영 시뮬레이션 게임",
    "category": "2D게임"
   },
@@ -2885,7 +2885,7 @@
    "repo": "real-estate-king",
    "name": "두근두근! 부동산 왕",
    "featured": false,
-   "live": "https://dogebi.github.io/real-estate-king/",
+   "live": "https://sigco3111.github.io/real-estate-king/",
    "desc": "(시뮬) · 부동산 매매 임대 시뮬레이션 게임",
    "category": "2D게임"
   },
@@ -2893,7 +2893,7 @@
    "repo": "kbo-manager",
    "name": "KBO 리그 매니저",
    "featured": false,
-   "live": "https://dogebi.github.io/kbo-manager/",
+   "live": "https://sigco3111.github.io/kbo-manager/",
    "desc": "(시뮬) · KBO 프로야구 팀 관리 시뮬레이션 게임",
    "category": "2D게임"
   },
@@ -2917,7 +2917,7 @@
    "repo": "kingdoms3-tradewar",
    "name": "삼국지 : 무역전쟁",
    "featured": false,
-   "live": "https://dogebi.github.io/kingdoms3-tradewar/",
+   "live": "https://sigco3111.github.io/kingdoms3-tradewar/",
    "desc": "(전략) · 삼국지 무역 전쟁 전략 시뮬레이션 게임",
    "category": "2D게임"
   },
@@ -2933,7 +2933,7 @@
    "repo": "gamedev-lite",
    "name": "게임데브스토리 Lite",
    "featured": false,
-   "live": "https://dogebi.github.io/gamedev-lite/",
+   "live": "https://sigco3111.github.io/gamedev-lite/",
    "desc": "(시뮬) · 게임 개발사 경영 시뮬레이션 게임",
    "category": "2D게임"
   },
@@ -2941,7 +2941,7 @@
    "repo": "enterprise_ceo",
    "name": "엔터프라이즈: CEO 대시보드",
    "featured": false,
-   "live": "https://dogebi.github.io/enterprise_ceo/",
+   "live": "https://sigco3111.github.io/enterprise_ceo/",
    "desc": "(시뮬) · 기업 CEO 경영 시뮬레이션 게임",
    "category": "2D게임"
   },
@@ -2957,7 +2957,7 @@
    "repo": "capitalism-web",
    "name": "캐피탈리즘 월드",
    "featured": false,
-   "live": "https://dogebi.github.io/capitalism-web/",
+   "live": "https://sigco3111.github.io/capitalism-web/",
    "desc": "(시뮬) · 글로벌 기업 경영 시뮬레이션 게임",
    "category": "2D게임"
   },
@@ -2965,7 +2965,7 @@
    "repo": "xcom-lite",
    "name": "XCOM 라이트",
    "featured": false,
-   "live": "https://dogebi.github.io/xcom-lite/",
+   "live": "https://sigco3111.github.io/xcom-lite/",
    "desc": "(전략) · 턴제 전술 분대 전략 게임",
    "category": "3D"
   },
@@ -2973,7 +2973,7 @@
    "repo": "terrarium",
    "name": "테라리움 : 방치형 성장 시뮬레이션",
    "featured": false,
-   "live": "https://dogebi.github.io/terrarium/",
+   "live": "https://sigco3111.github.io/terrarium/",
    "desc": "(시뮬) · 3D 방치형 생태계 육성 시뮬레이션 게임",
    "category": "3D"
   },
@@ -2981,7 +2981,7 @@
    "repo": "sand-blast",
    "name": "샌드 블라스트",
    "featured": false,
-   "live": "https://dogebi.github.io/sand-blast/",
+   "live": "https://sigco3111.github.io/sand-blast/",
    "desc": "(퍼즐) · 블록 물리 퍼즐 게임",
    "category": "실험"
   },
@@ -2997,7 +2997,7 @@
    "repo": "world-box",
    "name": "월드 박스 라이트",
    "featured": false,
-   "live": "https://dogebi.github.io/world-box/",
+   "live": "https://sigco3111.github.io/world-box/",
    "desc": "(시뮬) · 국가 시뮬레이션 샌드박스 게임",
    "category": "2D게임"
   },
@@ -3005,7 +3005,7 @@
    "repo": "gostop",
    "name": "토너먼트 맞고",
    "featured": false,
-   "live": "https://dogebi.github.io/gostop/",
+   "live": "https://sigco3111.github.io/gostop/",
    "desc": "(보드) · 토너먼트 고스톱 카드 게임",
    "category": "2D게임"
   },
@@ -3013,7 +3013,7 @@
    "repo": "diablock",
    "name": "디아블록",
    "featured": false,
-   "live": "https://dogebi.github.io/diablock/",
+   "live": "https://sigco3111.github.io/diablock/",
    "desc": "(디펜스) · 디아블로 스타일 자동 전투 디펜스 게임",
    "category": "3D"
   },
@@ -3115,7 +3115,7 @@
    "repo": "hermes-knowledge-shelf",
    "name": "헤르메스 지식 선반",
    "featured": false,
-   "live": "https://dogebi.github.io/hermes-knowledge-shelf/",
+   "live": "https://sigco3111.github.io/hermes-knowledge-shelf/",
    "desc": "· 에르메스 지식 서재 — 공개 가능한 익명 샘플 데이터 6권을 3D 책장과 HTML 리더로 탐색하는 클린룸 MVP. MengTo/complete-shelf의 단일-파일 experience를 한국어 6권 카탈로그로 clone·수정한 결과물입니다.",
    "category": "시각화"
   },
@@ -3123,7 +3123,7 @@
    "repo": "regl-scatterplot-korea",
    "name": "regl-scatterplot-korea",
    "featured": false,
-   "live": "https://dogebi.github.io/regl-scatterplot-korea/",
+   "live": "https://sigco3111.github.io/regl-scatterplot-korea/",
    "desc": "· regl-scatterplot 한국어 인터랙티브 데모",
    "category": "3D"
   },
@@ -3217,7 +3217,7 @@
    "repo": "pallet-town-3d",
    "name": "팔레트 타운 3D",
    "featured": false,
-   "live": "https://dogebi.github.io/pallet-town-3d/",
+   "live": "https://sigco3111.github.io/pallet-town-3d/",
    "desc": "(액션) · 포켓몬스터 LeafGreen 1인칭 3D 재해석",
    "category": "3D"
   },
@@ -3225,7 +3225,7 @@
    "repo": "cel-thunder",
    "name": "셀 썬더",
    "featured": false,
-   "live": "https://dogebi.github.io/cel-thunder/",
+   "live": "https://sigco3111.github.io/cel-thunder/",
    "desc": "(슈팅)  · 셀셰이딩 WWII 항공전 게임",
    "category": "3D"
   },
@@ -3233,7 +3233,7 @@
    "repo": "der-koloss-ce",
    "name": "1. 클론",
    "featured": false,
-   "live": "https://dogebi.github.io/der-koloss-ce/",
+   "live": "https://sigco3111.github.io/der-koloss-ce/",
    "desc": "(FPS)· 더 콜로스 — 좀비 웨이브 서바이벌 게임",
    "category": "3D"
   },
@@ -3269,7 +3269,7 @@
    "repo": "ez-tree",
    "name": "EZ-Tree — 절차적 3D 나무 생성기",
    "featured": false,
-   "live": "https://dogebi.github.io/ez-tree/",
+   "live": "https://sigco3111.github.io/ez-tree/",
    "desc": "(생성기) · 절차적 3D 나무 생성기 — Three.js+Vite, GLB/PNG/LOD 내보내기",
    "category": "3D"
   },
@@ -3277,7 +3277,7 @@
    "repo": "simcity-threejs",
    "name": "시티심.js",
    "featured": false,
-   "live": "https://dogebi.github.io/simcity-threejs/",
+   "live": "https://sigco3111.github.io/simcity-threejs/",
    "desc": "(시뮬) · 브라우저 도시 건설 게임 — Three.js+Vite+WebGL",
    "category": "3D"
   },
@@ -3309,7 +3309,7 @@
    "repo": "sylva",
    "name": "실바 — 살아 있는 세계로",
    "featured": false,
-   "live": "https://dogebi.github.io/sylva/",
+   "live": "https://sigco3111.github.io/sylva/",
    "desc": "(시각화) · 살아 있는 세계로 안내하는 인터랙티브 Three.js 풍경 — HTML+CSS+Three.js r149+WebGL2",
    "category": "3D"
   },
@@ -3327,7 +3327,7 @@
    "repo": "dontstarve-bear",
    "name": "굶지마 — 야생의 곰",
    "featured": false,
-   "live": "https://dogebi.github.io/dontstarve-bear/",
+   "live": "https://sigco3111.github.io/dontstarve-bear/",
    "desc": "(시뮬) · 시베리아 흑곰 무한 절차적 생존 — Three.js+WebGL2+GLSL",
    "category": "3D"
   },
@@ -3335,7 +3335,7 @@
    "repo": "luminous-lake",
    "name": "빛나는 호수",
    "featured": false,
-   "live": "https://dogebi.github.io/luminous-lake/",
+   "live": "https://sigco3111.github.io/luminous-lake/",
    "desc": "(시각화) · 시네마틱 3D 호수 시뮬레이션 — Three.js+WebGPU+Vite",
    "category": "3D"
   },
@@ -3353,7 +3353,7 @@
    "repo": "three-gpu-pathtracer",
    "name": "three-gpu-pathtracer",
    "featured": false,
-   "live": "https://dogebi.github.io/three-gpu-pathtracer/",
+   "live": "https://sigco3111.github.io/three-gpu-pathtracer/",
    "desc": "(시각화) · Three.js GPU 경로 추적 렌더러 한국어판 — Three.js+WebGL2+three-mesh-bvh",
    "category": "3D"
   },
@@ -3381,7 +3381,7 @@
    "repo": "forest-survivor-3d",
    "name": "숲의 생존자 3D",
    "featured": false,
-   "live": "https://dogebi.github.io/forest-survivor-3d/",
+   "live": "https://sigco3111.github.io/forest-survivor-3d/",
    "desc": "(액션) · 숲 속 벌목·생존 자동 에이전트 — Nuxt+Vue+Three.js",
    "category": "3D"
   },
@@ -3389,7 +3389,7 @@
    "repo": "lumenshaders",
    "name": "LUMEN · 생성형 셰이더 스튜디오",
    "featured": false,
-   "live": "https://dogebi.github.io/lumenshaders/",
+   "live": "https://sigco3111.github.io/lumenshaders/",
    "desc": "(생성기) · 브라우저 생성형 셰이더 스튜디오 — WebGL2+GLSL+JS",
    "category": "실험"
   },
@@ -3433,7 +3433,7 @@
    "repo": "icbm2-knowledge-graph",
    "name": "ICBM2 커맨드 센터",
    "featured": false,
-   "live": "https://dogebi.github.io/icbm2-knowledge-graph/",
+   "live": "https://sigco3111.github.io/icbm2-knowledge-graph/",
    "desc": "(시각화) · ICBM2 지식 그래프 시각화 (auto-updated)",
    "category": "자동화"
   },
@@ -3591,7 +3591,7 @@
    "category": "3D",
    "desc": "항구 서킷 3D 레이싱 게임 「Harbor GP」 한글화 · 화면 문구 번역, EN/한국어 전환 (원작 tetriss22/harbor-gp, 라이선스 미표기)",
    "featured": false,
-   "live": "https://dogebi.github.io/harbor-gp-ko/",
+   "live": "https://sigco3111.github.io/harbor-gp-ko/",
    "name": "하버 라이츠 그랑프리",
    "repo": "harbor-gp-ko",
    "screenshot": null,
@@ -3611,7 +3611,7 @@
    "category": "시각화",
    "desc": "1940년대부터 2025년까지 소프트웨어 직무 104개의 계보를 7개 계열·5년 단위 타임라인으로 그린 인터랙티브 도해 — 영문 원작(Ian Miell)을 한국어로 옮기고 화면·설명·이야기 카드 7편을 새로 구성",
    "featured": false,
-   "live": "https://dogebi.github.io/sw-job-title-family-tree-ko/",
+   "live": "https://sigco3111.github.io/sw-job-title-family-tree-ko/",
    "name": "소프트웨어 직무 계보도",
    "repo": "sw-job-title-family-tree-ko",
    "screenshot": null,

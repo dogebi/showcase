@@ -54,7 +54,7 @@ GitHub에 흩어져 있는 공개 프로젝트들을 한 페이지에 모은 쇼
 정적 파일 하나뿐이라 별도 설치가 없습니다.
 
 ```bash
-git clone https://github.com/dogebi/showcase.git
+git clone https://github.com/sigco3111/showcase.git
 cd showcase
 # 브라우저로 index.html을 열거나, 임의의 정적 서버 사용
 python3 -m http.server 8000
