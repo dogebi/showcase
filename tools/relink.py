@@ -145,6 +145,47 @@ def main() -> None:
     new_block = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
     new_html = html[:m.start(2)] + new_block + html[m.end(2):]
 
+    # 2b) 썸네일(raw.githubusercontent) 도 dogebi 로 — 포크는 이력·파일이 동일하므로 같은 경로가 200.
+    #     단 원본 호스트를 지울 때 깨지지 않도록 dogebi 쪽 URL 을 실제로 확인한다.
+    RAW = re.compile(r"raw\.githubusercontent\.com/" + SRC + r"/([A-Za-z0-9._-]+)/")
+    cand: dict[str, str] = {}          # 원본 raw URL -> dogebi raw URL
+    for d in data:
+        u = d.get("screenshot") or ""
+        mm = RAW.search(u)
+        if mm and mm.group(1) in have:
+            cand[u] = u.replace(f"raw.githubusercontent.com/{SRC}/",
+                                f"raw.githubusercontent.com/{DST}/", 1)
+    if cand:
+        probe = sorted(cand.values())
+        okraw: set[str] = set()
+        if check:
+            with ThreadPoolExecutor(max_workers=12) as ex:
+                for u, good in ex.map(lambda u: (u, http_ok(u)), probe):
+                    if good:
+                        okraw.add(u)
+        else:
+            okraw = set(probe)
+        st["thumb→dogebi"] = 0
+        st["thumb→원본"] = 0
+        for d in data:
+            u = d.get("screenshot") or ""
+            alt = cand.get(u)
+            if not alt:
+                continue
+            if alt in okraw:
+                d["screenshot"] = alt
+                st["thumb→dogebi"] += 1
+            else:
+                st["thumb→원본"] += 1
+        new_block = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
+        new_html = html[:m.start(2)] + new_block + html[m.end(2):]
+
+    # 2c) REPOS 밖(배너·설명문 등)에 남은 원본 저장소 링크 중 dogebi 에 실제로 있는 것만 치환
+    def _swap(mo: re.Match) -> str:
+        return mo.group(0) if mo.group(1) not in have else f"https://github.com/{DST}/{mo.group(1)}"
+
+    new_html = re.sub(r"https://github\.com/" + SRC + r"/([A-Za-z0-9._-]+)", _swap, new_html)
+
     if new_html != html and not dry:
         open(path, "w", encoding="utf-8").write(new_html)
 

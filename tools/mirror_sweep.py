@@ -28,7 +28,7 @@ STATE = os.path.expanduser("~/.hermes/cache/showcase_mirror_state.json")
 STATE_MIRROR = "/tmp/mirror_state.json"
 SRC, DST = "sigco3111", "dogebi"
 ENV = dict(os.environ, HTTPS_PROXY="http://127.0.0.1:1099", HTTP_PROXY="http://127.0.0.1:1099")
-BLOCK_SLEEP = 240.0          # 'too quickly' 후 대기
+BLOCK_SLEEP = 420.0         # 'too quickly' 후 대기 (240s 로는 창이 안 열린다 — 실측 2회 연속 403)
 MAX_RETRY = 4                # 같은 항목 재시도 한도
 
 
