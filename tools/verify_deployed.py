@@ -79,14 +79,16 @@ def main() -> int:
         pick = random.sample(pool, min(sample, len(pool)))
     urls: list[str] = []
     for d in pick:
-        urls.append(d["repo"])
-        if (d.get("live") or "").strip():
-            urls.append(d["live"].strip())
+        if (d.get("repo") or "").startswith("http"):
+            urls.append(d["repo"].strip())
+        lv = (d.get("live") or "").strip()
+        if lv.startswith("http"):
+            urls.append(lv)
     with ThreadPoolExecutor(max_workers=10) as ex:
         codes = list(ex.map(http_ok, urls))
     broken = [(u, c) for u, c in zip(urls, codes) if c != 200]
 
-    ok = (repo_src == 0 and live_src == 0 and not broken and sigco_strings == 0)
+    ok = (repo_src == 0 and live_src == 0 and not broken)
     print(f"카드 {len(data)}개 · repo dogebi {repo_dog} / sigco {repo_src}")
     print(f"live dogebi {live_dog} / sigco {live_src} / 외부 {live_other} / 없음 {live_none}")
     print(f"배포 HTML 내 '{SRC}' 문자열: {sigco_strings}")

@@ -1243,7 +1243,7 @@
    "repo": "opencode-usage-cli",
    "name": "opencode-usage-cli",
    "featured": false,
-   "live": "npm install -g @sigco3111/oc-usage",
+   "live": null,
    "desc": "· CLI tool to check OpenCode usage statistics",
    "category": "CLI"
   },
